@@ -1,0 +1,86 @@
+---
+title: Compliance Pathways
+subject: Planning
+subtitle: Project permitting for proposals and project planning
+short_title: 6. Compliance Pathways
+date: 2024-04-26
+authors:
+  - name: Vance Russell
+    affiliations:
+      - 3point.xyz
+    email: vance@3point.xyz
+  - name: Andrea Williams
+    affiliations:
+      - CAL FIRE
+    email: Andrea.Williams@fire.ca.gov
+  - name: Kerri Rinne
+    affiliations:
+      - Auburn Rancheria
+    email: kerri.rinne@gmail.com
+license: CC-BY-4.0
+keywords: planning, compliance, CEQA
+abstract: |
+  Environmental compliance can range from simple to complex, costing nominal amounts to ‘a lot’. If you have not started on compliance, we offer some pathways and ideas to get you started. This chapter outlines key routes for meeting CEQA (and sometimes NEPA) requirements, with a decision-making flowchart and practical guidance tailored to forest health and wood products projects.
+kernelspec:
+    name: python3
+    display_name: Python 3
+exports:
+    - format: docx
+      template: curvenote
+      output: exports/06-ceqa.docx
+      article_type: Report
+---
+# Background
+
+Compliance and documentation with the California Environmental Quality Act (CEQA) and the National Environmental Protection Act (NEPA) are required for all planned projects. Projects on federal lands require NEPA; everything else requires CEQA. However, most California state-funded projects may require CEQA regardless of project location. The CEQA Handbook for Bioenergy and Wood Products Businesses is a useful reference guide for project developers, local government, and business owners [@ceqaclere]
+
+# CEQA
+A general flowchart showing the decision-making process for the California Environmental Quality Act (CEQA) for any project on nonfederal land in California ({numref}`ceqa1`). This flowchart is a general CEQA process for any project requiring CEQA compliance. With forest health and wood products projects, please use the diagram as an overall environmental frame of reference rather than the exact process to obtain compliance for your project.
+
+```{figure} ../figures/ceqa.png
+:name: ceqa1
+General CEQA flowchart (adapted from {cite}`ceqa`).
+```
+
+The types of CEQA documents are many but generally encompass the following broad categories listed from low risk/short completion time to high risk/long completion time:
+
+1. **Notice of Exemption (NOE)** = The project is Categorically Exempt with no exceptions or has no possibility of impacting the environment.
+2. **Initial Study** = Identifies project env impacts.
+3. **Negative Declarations (neg dec/MND)** = The project will not have significant environmental impacts (neg dec) or has been redesigned to eliminate any significant impacts (Mitigated Negative Declaration, MND).
+4. **Environmental Impact Report (EIR)** = Prepared when significant environmental impacts are identified.
+
+# CalVTP
+[The California Vegetation Treatment Program](https://bof.fire.ca.gov/projects-and-programs/calvtp-homepage-and-storymap) includes the use of prescribed burning, mechanical treatments, manual treatments (including reforestation), herbicide application, and prescribed herbivory as tools to reduce hazardous vegetation around communities in the Wildland-Urban Interface (WUI), to construct fuel breaks (shaded or non-shaded), and to promote ecological restoration. A general VTP process flowchart is shown in {numref}`vtp`.
+
+```{figure} ../figures/vtp.png
+:name: vtp
+The CalVTP flowchart was adapted from 'Environmental planning strategies to reach the million-acre goal' (Ascent Environmental). See the glossary at the Chapter's end for a key to acronyms.
+```
+
+Important timber/commercial definitions from California Code PRC 4527 include:
+
+- (a)(1) "Timber operations" means the cutting or removal, or both, of timber or other solid wood forest products, including Christmas trees, from timberlands for commercial purposes, together with all the incidental work..."
+- (2) "Commercial purpose" includes (A) the cutting or removal of trees that are processed into logs, lumber, or other wood products and offered for sale, barter, exchange or trade..."
+
+Section IV - Cumulative Impacts Assessment of a Timber Harvest Plan (THP) - complies with CEQA. Once the THP is approved it is the functional equivalent of an EIR. The same environmental compliance applies to Nonindustrial Timber Management Plans (NTMPs).
+
+# Examples
+A diagram showing compliance pathways for wood products and forest health projects ({numref}`example`).
+
+```{figure} ../figures/example.png
+:name: example
+Example projects and CEQA/NEPA compliance. 1: Often added to an existing project where CEQA has been completed. In these cases, project proponents can use existing CEQA analysis and determine no new significant impacts via an addendum to the existing document; 2: Before the training, those lands must have completed CEQA and provide a copy of the analyses to CAL FIRE; 3: Projects submitting NEPA documents that created the biomass would be statutorily exempt from CEQA (AB211 - PRC 4799.05(d)(1)); 4: Projects could utilize the CEQA documents that created the biomass. In some cases, the transport is included in the facility analysis, so the facility impacts CEQA documents can be used if they include the biomass transport to the facility. See CEQA Statutory Exemption 21080(b)(3) and CEQA Guidelines Section 15269(a) for reforestation and emergency exemptions.
+```
+
+# Glossary
+- EIS/EIR - Environmental Impact Statement/Report
+- FPA/FPR - Forest Practice Act/Rules
+- IS - Initial Study
+- MMRP - Mitigation Monitoring & Reporting Program
+- NOD - Notice of Determination
+- NOE - Notice of Exemption
+- NTMP - Nonindustrial Timber Management Plan
+- FEIR - Final Environmental Impact Report
+- PEIR - Program Environmental Impact Report, PSA - Project-Specific Analysis
+- PTEIR - Program Timberland EIR
+- PTHP - Program Timberland Harvest Plan, THP - Timber Harvest Plan
