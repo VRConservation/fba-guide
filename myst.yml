@@ -32,7 +32,7 @@ site:
   template: book-theme
   options:
     favicon: images/favicon.ico
-    logo: images/logo.png
+    logo: images/fba-square.png
   nav:
     - title: CAL FIRE BWD
       url: https://www.fire.ca.gov/what-we-do/natural-resource-management/climate-and-energy-program/wood-products-and-bioenergy
