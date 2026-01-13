@@ -1,5 +1,5 @@
 ---
-title: DRAFT  Startup pathways
+title: DRAFT Startup pathways
 subject: Startups
 subtitle: Developmental roadmap for Tribal and non-Tribal wood product startups
 short_title: 11. Startup pathways
