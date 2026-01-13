@@ -25,3 +25,20 @@ exports:
 ---
 
 # Takeaways
+
+# Process
+Grant closeout is a process you need to start well ahead of your agreement termination date ({numref}`closeout`).
+
+:::{figure} ../figures/closeout/closeout.png
+:name: closeout
+Hypothetical grant closeout process.
+:::
+
+# Best Practices
+1. **Get organized**. Review grant commitments (including project goals), approved budget, and expenditures to date.​ Create a timeline for finishing the report that includes cut-off dates for implementation/expenses and staff responsible for each item​. Gather all relevant documentation on project accomplishments, metrics, photos, and financials.​
+2. **Analyze**. What did you get right, what methods worked/didn't work, what did you overestimate? What was the project impact on the ground and for your organization?​
+3. **Be transparent**. Be constructive and honest in your reporting for what worked and what you would do differently. Think of the take-home results as pluses (what went well) and deltas (what would you change next time).​
+4. **Visualize**. Think of creative ways to visualize and convey your results beyond words in a paragraph (within bounds of agreement and reporting requirements). Graphs, maps, and photos all help communicate your message and what you accomplished for the project.​
+5. **Learn**. Spend time reviewing and learning from results. Apply learnings to ongoing projects and measurements to overall business/organizational plan.​
+6. **Share**. Share your results beyond the report submitted to CALFIRE. Also, the work you do to compile the report can serve multiple purposes, e.g., communications or annual report.
+
