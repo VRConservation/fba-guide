@@ -26,8 +26,9 @@ project:
       children:
         - file: chapters/cases/pwf.md
         - file: chapters/cases/washoe.md
+    - file: chapters/13-closeout.md
     - file: glossary.md
-    # - file: 13-closeout.md
+
 
 site:
   template: book-theme

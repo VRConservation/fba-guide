@@ -3,7 +3,7 @@ title: DRAFT Grant Closeout
 subject: Closeout
 subtitle: How to close out your grant, learn from the project, and leverage it
 short_title: 13. Grant Closeout
-date: 2026-01-15
+date: 2026-01-20
 authors:
   - name: Vance Russell
     affiliations:
@@ -13,6 +13,13 @@ authors:
     affiliations:
       - Aegis Conservation
     email: chris@aegisconservation.com
+  - name: Regine Miller
+    affiliations:
+      - Headwaters Environmental, Inc.
+  - name: Kelly Kahling
+    affiliations:
+      - Headwaters Environmental, Inc.
+
 license: CC-BY-4.0
 keywords: closeout, leverage, funding, learning
 abstract: |
@@ -27,10 +34,11 @@ exports:
 # Takeaways
 
 # Process
-Grant closeout is a process you need to start well ahead of your agreement termination date ({numref}`closeout`).
+Grant closeout is a process you need to start well ahead of your agreement termination date ({numref}`close-graphic`).
 
 :::{figure} ../figures/closeout/closeout.png
-:name: closeout
+:class: dropdown
+:name: close-graphic
 Hypothetical grant closeout process.
 :::
 
@@ -42,3 +50,6 @@ Hypothetical grant closeout process.
 5. **Learn**. Spend time reviewing and learning from results. Apply learnings to ongoing projects and measurements to overall business/organizational plan.​
 6. **Share**. Share your results beyond the report submitted to CALFIRE. Also, the work you do to compile the report can serve multiple purposes, e.g., communications or annual report.
 
+:::{attention}
+If your project results, reports, or analyses contain propietary information, discuss with your program manager how to submit and share results that do not compromise or put this information in the public sphere. Some businesses have not submitted results, but still showed proof of completion, e.g., feasibility or marketing studies.
+:::
