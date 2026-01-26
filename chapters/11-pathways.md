@@ -25,7 +25,6 @@ exports:
 ---
 
 # Takeaways
-
 1. **Business plan.** Develop a clear business plan with a vision, achievable objectives, scalable expansion, and brief, but accurate, finance plan.
 2. **Networking**. Network across professional in the field to see their approaches, how they've solved problems, and develop and possible partnerships.
 3. **Compliance**. Start and CEQA/NEPA compliance early and budget properly for the documents and permits you need to get that first spade in the ground.
@@ -33,11 +32,9 @@ exports:
 5. **Funding**. This is the big one, and the most challenging. However, if you organize your plans, your pitch deck, and your business idea is good and fills a key need, the funding will come. Don't confuse funding and finance, they're two very different things, but you need to do both. There are many options for collaborative finance in the forestry and water worlds [@russell_odefey].
 
 # Introduction
-
 Describe the key differences in program design vs. feasibility and viable project design (Regine email)
 
 # Challenges
-
 We often go straight to funding when it comes to challenges and one of the biggest challenges can be unreasonable requests for RFPs from funding agencies ({numref}`jerry`). Yes, you do have something that is going to change the world. So why isn't everyone funding it? Maybe you don't have a theory of change!
 
 :::{figure} ../figures/pathways/seinfeld.png
@@ -69,7 +66,6 @@ Putting together proposals in response to foundations and government agency requ
    :::
 
 # Simple solutions
-
 There are some solutions that seem obvious and are simple, but many businesses don't take them seriously. The first example is writing a clear, compelling, and readable business plan. Don't use ChatGPT to write this. This isn't a joke, FBA has reviewed some business plans that were probably written by ChatGPT. For immediate impact, these could include:
 
 1. Theory of change
@@ -77,7 +73,6 @@ There are some solutions that seem obvious and are simple, but many businesses d
 3. Measuring success plan.
 
 # Advanced solutions
-
 After simple solutions, there are solutions that will be more difficult to attain or implement, but are worth the effort. These could include things like an equitable staffing structure, ramping up finance rounds beyond startup stage, and realistically costing out how your business is going to scale.
 
 1. Staffing
@@ -85,7 +80,6 @@ After simple solutions, there are solutions that will be more difficult to attai
 3. Scaling
 
 # Project pathway
-
 discuss the development pathway/stages/steps, the types of expertise that are needed to support a project achieving these steps, common pitfalls or hurdles, example projects/case studies, grant funding opportunities to support project development, free TA resources, etc. I don't think we should dive into pitch decks and success monitoring because these are associated with late stage development.
 
 ## I. Back-of-the-envelope
@@ -132,6 +126,8 @@ Cite @Wildephor here? See bib for url link to study
 ## VI. Stock taking
 
 # Resources
+
+
 
 From the Biomass newsletter sent from Martin on Nov 25, 2025:
 

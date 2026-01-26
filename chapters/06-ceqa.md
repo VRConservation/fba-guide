@@ -37,7 +37,7 @@ Compliance and documentation with the California Environmental Quality Act (CEQA
 # CEQA
 A general flowchart showing the decision-making process for the California Environmental Quality Act (CEQA) for any project on nonfederal land in California ({numref}`ceqa1`). This flowchart is a general CEQA process for any project requiring CEQA compliance. With forest health and wood products projects, please use the diagram as an overall environmental frame of reference rather than the exact process to obtain compliance for your project.
 
-```{figure} ../figures/ceqa.png
+```{figure} ../figures//ceqa/ceqa.png
 :name: ceqa1
 General CEQA flowchart (adapted from {cite}`ceqa`).
 ```
@@ -52,7 +52,7 @@ The types of CEQA documents are many but generally encompass the following broad
 # CalVTP
 [The California Vegetation Treatment Program](https://bof.fire.ca.gov/projects-and-programs/calvtp-homepage-and-storymap) includes the use of prescribed burning, mechanical treatments, manual treatments (including reforestation), herbicide application, and prescribed herbivory as tools to reduce hazardous vegetation around communities in the Wildland-Urban Interface (WUI), to construct fuel breaks (shaded or non-shaded), and to promote ecological restoration. A general VTP process flowchart is shown in {numref}`vtp`.
 
-```{figure} ../figures/vtp.png
+```{figure} ../figures/ceqa/vtp.png
 :name: vtp
 The CalVTP flowchart was adapted from 'Environmental planning strategies to reach the million-acre goal' (Ascent Environmental). See the glossary at the Chapter's end for a key to acronyms.
 ```
@@ -67,7 +67,7 @@ Section IV - Cumulative Impacts Assessment of a Timber Harvest Plan (THP) - comp
 # Examples
 A diagram showing compliance pathways for wood products and forest health projects ({numref}`example`).
 
-```{figure} ../figures/example.png
+```{figure} ../figures/ceqa/example.png
 :name: example
 Example projects and CEQA/NEPA compliance. 1: Often added to an existing project where CEQA has been completed. In these cases, project proponents can use existing CEQA analysis and determine no new significant impacts via an addendum to the existing document; 2: Before the training, those lands must have completed CEQA and provide a copy of the analyses to CAL FIRE; 3: Projects submitting NEPA documents that created the biomass would be statutorily exempt from CEQA (AB211 - PRC 4799.05(d)(1)); 4: Projects could utilize the CEQA documents that created the biomass. In some cases, the transport is included in the facility analysis, so the facility impacts CEQA documents can be used if they include the biomass transport to the facility. See CEQA Statutory Exemption 21080(b)(3) and CEQA Guidelines Section 15269(a) for reforestation and emergency exemptions.
 ```
