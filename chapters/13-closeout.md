@@ -1,7 +1,7 @@
 ---
 title: DRAFT Grant Closeout
 subject: Closeout
-subtitle: How to close out your grant, learn from the project, and leverage it
+subtitle: How to learn, leverage, and closeout a grant project
 short_title: 13. Grant Closeout
 date: 2026-01-20
 authors:
@@ -23,7 +23,7 @@ authors:
 license: CC-BY-4.0
 keywords: closeout, leverage, funding, learning
 abstract: |
-  Grant closeout is an underappreciated aspect of grant management, but critical for organizational learning, future funding, and effective organizational/business administration. Building on the January 13, 2026 Grant Closeout workshop we present a closeout roadmap, identify key insights for closeout financial and outcomes reporting, and discuss ways to leverage closeout with future funding and learning.
+  Grant closeout is an underappreciated aspect of grant management, but critical for organizational learning, future funding, and effective organizational/business administration. Building on the January 13, 2026 Grant Closeout workshop, we present a closeout roadmap, identify key insights for closeout financial and outcomes reporting, and discuss ways to leverage closeout with future funding and learning.
 exports:
   - format: docx
     template: curvenote
