@@ -3,7 +3,7 @@ title: DRAFT Grant Closeout
 subject: Closeout
 subtitle: How to learn, leverage, and closeout a grant project
 short_title: 13. Grant Closeout
-date: 2026-01-20
+date: 2026-01-28
 authors:
   - name: Vance Russell
     affiliations:

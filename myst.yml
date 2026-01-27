@@ -26,6 +26,7 @@ project:
       children:
         - file: chapters/cases/pwf.md
         - file: chapters/cases/washoe.md
+        - file: chapters/cases/forestree.md
     - file: chapters/13-closeout.md
     - file: glossary.md
 
