@@ -39,16 +39,16 @@ exports:
 # Process
 It is important to ask two key questions before starting closeout:
 
-1. Do you need to amend your contract, based on task completion, expenses, or other factors? If yes, see the Amendments callout.
-2. Are you ready to close out the project, e.g., have you completed the deliverables, spending, and other terms of the proposed project and contract? If yes, read on. If not, but you're nearing project end, get organized, gather materials, and consider leveraging the grant with other funds, though fund leveraging should likely begin one year before grant close. 
+1. Do you need to amend your contract, based on task completion, expenses, or other factors? If yes, see the Amendments callout. If not, proceed to consider the next question.
+2. Are you ready to close out the project? Have you completed the deliverables, spent whatever grant funds you plan to spend, and fulfilled all the contract terms? If yes, read on. **Remember**: You will not be able to submit further activity reports or complete pending tasks after the grant is closed and any unspent funds will be de-obligated and returned to the grantor.
 
 :::{tip} Amendments
 :class: dropdown
-Amendments vary by program, but always take longer than you expect. Anticipate any changes you may need well ahead of your grant closeout date. Other tips to consider include the following:
+Amendment procedures differ across funders and sometimes across grant programs within the same agency, yet they almost always take longer than expected. Plan for any adjustments you may need well in advance of your grant closeout date. Additional tips to keep in mind include the following:
 
 1. **Grant manager**. Always consult with your grant manager before starting an amendment.
 2. **Submittal**. For CALFIRE, submit amendments 90 days from the agreement expiration date. For other programs, see the terms in your contract.
-3. **Timing**. Amendments may take time to process. Allow at least 6 weeks.
+3. **Timing**. Amendments take time to process. To be safe, you should allow at least 6 weeks from submittal to approval.
 4. **Invoicing**. Once an amendment is submitted, eCivis cannot accept invoices until the amendment is approved.
 5. **Cash flow**. To avoid cash flow problems, try to time submittal immediately after submitting an invoice.
 :::
@@ -61,7 +61,7 @@ Grant closeout is a process initiated well before your agreement termination dat
 Hypothetical grant closeout process with timeline started three months prior to the grant end.
 :::
 
-After submitting the amendment paperwork, start gathering final project metrics & outcomes. Three months ahead of time may seem early to start, but you may need to track down data, analyze it, and start thinking of ways to visualize it in a compelling manner.
+Once you have determined whether or not you will need to request an amendment, and submitted one if you do, start gathering final project metrics & outcomes. Three months ahead of time may seem early to start, but you may need to track down data, analyze it, and start thinking of ways to visualize it in a compelling manner.
 
 Two months before the grant report is due, draft the report with the project team. Note gaps in information, identify key learning, and things you might change, and treat the report writing as an overall process of learning within your organization. At this time, identify pathways to leverage your grant with other resources (you may actually want to start this process at least a year before the grant ends) and opportunities to use the grant report results to communicate with other audiences.
 
@@ -88,9 +88,15 @@ If your project results, reports, or analyses contain proprietary information, d
 ## CALFIRE Closeout
 In addition to financial and programmatic reporting, you will need to complete additional materials:
 
-1. Complete the Closeout Document provided to you by CALFIRE. This document includes relevant project materials, including photographs and outreach materials.
-2. Complete the eCivis portal closeout process. This form in eCivis also serves as your final Financial Report.
+1. Complete the Project Closeout Report Form provided to you by CALFIRE. Be sure to include allowable supporting materials, such as photographs, news articles and reports, that demonstrate your project’s accomplishments.
+2. Complete the eCivis portal closeout process. This form in eCivis also serves as your final Financial Report ({numref}`dash`).
 3. Make sure to carefully organize and create backup documentation for the project. Besides having it for your files, once you submit the closeout to eCivis, your project information is no longer accessible.
+
+:::{figure} ../figures/closeout/dash.png
+:class: dropdown
+:name: dash
+Award dashboard for eCivis showing the award closeout button to start the closeout process.
+:::
 
 # Resources
 1. Examples of forms and documentation for closeout can be found in the Grant Closeout Workshop on the [FBA youtube channel](https://www.youtube.com/@ForestBusiness_Alliance). 
