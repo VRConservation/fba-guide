@@ -20,7 +20,7 @@ kernelspec:
 exports:
   - format: docx
     template: curvenote
-    output: ../../chapters/exports/pwf.docx
+    output: ../../chapters/exports/forestree.docx
     article_type: Report
 ---
 # Takeaways
