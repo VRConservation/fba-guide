@@ -73,7 +73,7 @@ In parallel with its furniture and interiors line, Forestree Collective is devel
 Forestree NLT panels on the ceiling.
 :::
 
-Despite its inclusion in building codes and long history of use, NLT remains underutilized due to gaps in research, manufacturing guidance, and real-world demonstrations. Forestree is addressing these barriers through a partnership with the Berkeley Wood Lab at the University of California’s College of Agriculture and Natural Resources (UC ANR) and the nonprofit Regenerative Forest Solutions (RFS). Together, the team is advancing structural research, optimizing low-cost fabrication methods, sustainable procurement, and producing demonstration projects that validate performance and expand market confidence. Their pilot NLT project was a solar kiln using Lignoloc wooden nails as fasteners ({numref}`kiln`).  
+Despite its inclusion in building codes and long history of use, NLT remains underutilized due to gaps in research, manufacturing guidance, and real-world demonstrations. Forestree is addressing these barriers through a partnership with the Berkeley Wood Lab at the University of California’s College of Agriculture and Natural Resources (UC ANR) and the nonprofit Regenerative Forest Solutions. Together, the team is advancing structural research, optimizing low-cost fabrication methods, sustainable procurement, and producing demonstration projects that validate performance and expand market confidence. Their pilot NLT project was a solar kiln using Lignoloc wooden nails as fasteners ({numref}`kiln`).  
 
 :::{figure} ../../figures/ft/kiln.jpg
 :name: kiln
