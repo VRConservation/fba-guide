@@ -28,7 +28,7 @@ exports:
 The [Forest Business Alliance](https://www.forestbusinessalliance.org/) provides technical assistance, delivers workshops, and facilitates a peer-learning network to increase local and regional capacity for applicants to CAL FIRE's Business and Workforce Development Program.
 
 # Funding
-Funding for the Forest Business Alliance is provided by the [CAL FIRE Business and Workforce Development Grant Program](https://www.fire.ca.gov/what-we-do/natural-resource-management/climate-and-energy-program/wood-products-and-bioenergy) and the [Yuba Water Agency](https://www.yubawater.org/).
+Funding for the Forest Business Alliance is provided by the [CAL FIRE Business and Workforce Development Grant Program](https://www.fire.ca.gov/what-we-do/natural-resource-management/climate-and-energy-program/wood-products-and-bioenergy). Past funders include the [Yuba Water Agency](https://www.yubawater.org/) and USDA Forest Service.
 
 ```{image} ../calfire.png
 :height: 200px
