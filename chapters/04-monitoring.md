@@ -137,7 +137,7 @@ Intervention is stand thinning to reduce wildfire risk followed by regular presc
 
 And sometimes you need a Minivan:
 
-![minivan](https://i.imgur.com/JkE13Hi.png)
+![minivan](https://static0.carbuzzimages.com/wordpress/wp-content/uploads/2024/03/889427.jpg)
 
 ```{admonition} Minivan Monitoring Methods Checklist
 :class: dropdown
@@ -157,4 +157,4 @@ Intervention is stand thinning to reduce wildfire risk followed by regular presc
 - **[Recipes for Conservation](https://conservationstandards.org/library-item/cs-toolkit)**. A summary of how to develop the conservation standards within or among organizations. The recipes have some valuable sections for businesses but are nonprofit and agency-focused.
 - **[Pause & Reflect Toolkit](https://conservationstandards.org/library-item/pause-and-reflect-toolkit/)**. Pause and reflect is an organizational stop and step back to reflect on what you're doing and why as well as an evaluation of how it's going. This toolkit provides project leaders with a centralized collection of resources, enabling them to find everything they need to lead and support a pause and reflect process.
 - **Measures of Success**. Practical guide (in English and Spanish) for designing, planning, and implementing conservation projects. The Spanish version can be found as a free download, and the English version is available for purchase from Island Press {cite}`measures`.
-- The **[Open Standards for the Practice of Conservation](https://conservationstandards.org/wp-content/uploads/sites/3/2020/10/CMP-Open-Standards-for-the-Practice-of-Conservation-v4.0.pdf)**, developed by the Conservation Measures Partnership {cite}`cmp`, is a definitive resource for program and project design.
+- The **Open Standards for the Practice of Conservation**, developed by the Conservation Measures Partnership is a definitive resource for program and project design [@cmp].

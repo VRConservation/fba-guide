@@ -110,6 +110,21 @@ To build out your budget, add more rows to the detail sheet, repeating activitie
 # Finalize
 Put together your project design and share it. For both proposals and projects, copyedit your final version and then copyedit it again. Look at it in different formats and, ideally, let the proposal rest for a few days, then copyedit again. Printing out the key written components and editing with a red pen can also help catch additional mistakes or grammatical errors. This might seem like a paper waste, but it can be effective for editing. 
 
+
+:::{attention} Recommendations to Funders
+:class: dropdown
+
+Putting together proposals in response to foundations and government agency requests for proposals (RFPs) can often be an arduous or torturous process. It doesn’t have to be this way, and some foundations and agencies are much better at it than others. For example, the California Wildlife Conservation Board typically requires a site visit prior to an applicant putting together a proposal, then program officers review submitted proposals and provide feedback on scope and budget. If and when the proposal goes to the board, it's likely to be funded.
+
+Funders vary so widely it’s hard to make generalizations, but the best pay more attention to process and capacity building. If you get a chance to give feedback to funders during a proposal process, please offer them honest feedback. Here are our suggestions for funders that you're welcome to adapt:
+
+1. **Streamline the initial application process**. One page: tasks, budget, qualifications. That’s it! Details later! Don't make grantees answer 17 questions and develop a 50 page proposal for funding they may have a small change of securing. That's not fair to them or reviewers.
+2. **Consider participatory grant-making**. What if we flattened the decision-making for who gets funding and included grantees in that process. What if grantmaking by all funders was more transparent and less opaque? Maybe this would require more time up front by funders, but it could lead to stronger projects and improved connections to grantees.
+3. **Rethink proposal forms**. Consider providing templates in word or pdf format that grantees can fill out then upload the saved docs to your grant portal instead of using online forms that require filling out each section before moving on to the next. No one should have to cut and paste their proposal to submit it online; that is so 1990s. Look for others ways to automate this process with grantees.
+4. **Shorten RFPs**. RFPS in excess of 20 pages make it difficult for grantees to get to translate to proposals. List what you want, how much to apply for, and leave the legalese for funding recipients, e.g., don't include pages of appendices with contracts and required forms. The legal documentation can have a link online and providing other key documents, e.g., model budget or scope could be made available.
+5. **Set realistic due dates**. Not January 2 or the week after Thanksgiving or even during the summer school holidays. Also don't release RFPs on December 23rd, that's verging on Ebenezer Scrooge behavior. These due dates aren't made up, we have experienced this for grants and heard from partners about the same.
+   :::
+
 The FBA can also review projects and proposals, with our staff writers' years of experience with proposal development and successful funding track records. However, we ask that you send them early, e.g., months before the due date or during the conceptual phase. Please get in touch with us if you're interested in a review.
 
 Good luck!
