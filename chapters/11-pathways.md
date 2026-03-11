@@ -40,21 +40,6 @@ We often go straight to funding when it comes to startup challenges but funding 
 5. **Sparse networking and partner opportunities**.
 6. **Leadership to run wood processing facilities**. Although experienced labor to run mills may be available, as has been the case for Tahoe Forest Products and J&C Lumber finding skilled leadership for supervisory positions to support operations and grow startups may be difficult [@Swezy].
 
-<<<<<<< HEAD
-# Simple solutions
-There are some solutions that seem obvious and are simple, but many businesses don't take them seriously. The first example is writing a clear, compelling, and readable business plan. Don't use ChatGPT to write this. This isn't a joke, FBA has reviewed some business plans that were probably written by ChatGPT. For immediate impact, these could include:
-
-1. Theory of change
-2. Business plan.
-
-# Advanced solutions
-After simple solutions, there are solutions that can be more difficult to implement, but are worth the effort. These could include things like an equitable staffing structure, ramping up finance rounds beyond startup stage, and realistically costing out how your business is going to scale. However, some of these solutions may be more associated with late stage development.
-
-1. Staffing
-2. Finance 202
-3. Scaling
-4. Outcomes plan. Measuring success plan
-=======
 :::{attention} Recommendations to Funders
 :class: dropdown
 
