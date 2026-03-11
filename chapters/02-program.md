@@ -151,6 +151,17 @@ A simplified workforce capacity results chain.
 ## Goals & Objectives
 Goals and objectives are often reversed, conflated, or used interchangeably by organizations, businesses, and agencies. Goals and objectives are distinct, important planning terms that identify programmatic success when conceived and well-written, e.g., how you want the world to change. Below, we provide guidance on creating statements for each level. Review CAL FIRE’s required metrics before you develop your goals and objective statements. Reviewing and understanding them is necessary for creating goals and objectives that align with CAL FIRE’s goals.
 
+:::{important} Wood Business Success Pathways
+:class: dropdown
+Goals and objectives are critical for program design, maintaining focus, and measuring success over time. Some key factors for successful wood product and forest health businesses and organization include
+
+1. **Business plan.** Develop a clear business plan with a vision, achievable objectives, scalable expansion, and brief, but accurate, finance plan.
+2. **Networking**. Network across professional in the field to see their approaches, how they've solved problems, and develop and possible partnerships.
+3. **Compliance**. Start and CEQA/NEPA compliance early and budget properly for the documents and permits you need to get that first spade in the ground.
+4. **Feedstock agreements**. Make sure to secure long-term feedstock agreements from the landowner where your wood is sourced. It can be exceptionally difficult to arrange terms longer than three years with public agencies, so the earlier you start, the better. For more detail on this topic and potential solutions, see @russell_jpa.
+5. **Funding**. This is the big one, and the most challenging. However, if you organize your plans, your pitch deck, and your business idea is good and fills a key need, the funding will come. Don't confuse funding and finance, they're two very different things, but you need to do both. There are many options for collaborative finance in the forestry and water worlds [@russell_odefey].
+:::
+
 **Goals** are the high-level, long-term results and impacts an organization or business seeks to achieve. Derived from the scope of your situation assessment, they represent the desired status of the specific targets identified. Like objectives, goals are specific, measurable, and time-bound but typically over a much longer period, e.g., decades rather than months or years. Unlike objectives, the project’s goal statement is usually general and abstract, describing a desired state beyond the project's life. For this reason, a goal will not have an associated indicator. Program goals are the nexus for your organization's projects.
 
 ```{admonition} Goal Example
