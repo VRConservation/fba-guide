@@ -13,6 +13,9 @@ authors:
     affiliations:
       - Aegis Conservation
     email: chris@aegisconservation.com
+  - name: Regine Miller
+    affiliations:
+      - Headwaters Environmental
 license: CC-BY-4.0
 keywords: startups, planning, pathways
 abstract: |
@@ -20,7 +23,7 @@ abstract: |
 exports:
   - format: docx
     template: curvenote
-    output: exports/10-pathways.docx
+    output: exports/11-pathways.docx
     article_type: Report
 ---
 
@@ -51,15 +54,15 @@ Putting together proposals in response to foundations and government agency requ
 4. **Shorten RFPs**. RFPS in excess of 20 pages make it difficult for grantees to get to translate to proposals. List what you want, how much to apply for, and leave the legalese for funding recipients, e.g., don't include pages of appendices with contracts and required forms. The legal documentation can have a link online and providing other key documents, e.g., model budget or scope could be made available.
 5. **Set realistic due dates**. Not January 2 or the week after Thanksgiving or even during the summer school holidays. Also don't release RFPs on December 23rd, that's verging on Ebenezer Scrooge behavior. These due dates aren't made up, we have experienced this for grants and heard from partners about the same.
 :::
->>>>>>> dc64f95 (pathways edits)
 
-# Project pathway
+# Startup pathways
 discuss the development pathway/stages/steps, the types of expertise that are needed to support a project achieving these steps, common pitfalls or hurdles, example projects/case studies, grant funding opportunities to support project development, free TA resources, etc. I don't think we should dive into pitch decks and success monitoring because these are associated with late stage development.
 
 ## I. Concept
-Spitballing stage for the initial ideas that precedes the pre-feasibility stage.
+The concept stage is brainstorming or coming up with the idea that solves a key problem. It is the spitballing stage for the initial ideas that precedes the pre-feasibility stage. Once you get this down on your napking, it's then critical to stress test it, share it with key people and users to see if it really will be used.
 
 ## II. Pre-feasibility
+In addition to seeing if your idea will work, pre-feasibility should look at a number of items from basic project or program outline to financials and permitting. Some items to consider include the following:
 
 - Establishing a vision and project concept, goals and objectives
 - Identification of technology options and preferred option
@@ -70,7 +73,10 @@ Spitballing stage for the initial ideas that precedes the pre-feasibility stage.
 - Partner mapping/initial engagement
 - Establishing a preliminary project schedule
 
+Pre-feasibility is really about testing the concept and if you can check these boxes, it's time to move to feasibility and deepening your analysis.
+
 ## III. Feasiblity
+Some businesse hire consultants to help with feasbility finances, market analysis and securing feedstock supplies or permits. Some other items to consider include
 
 - Securing site control
 - Preliminary engineering and design for the preferred tech, and a third party review of it
@@ -82,19 +88,27 @@ Spitballing stage for the initial ideas that precedes the pre-feasibility stage.
 - Identification and initial pursuit of capital stack
 - Refine and maintain the Gantt
 - Partner/stakeholder engagement
+- Develop pitch deck, white paper, and web landing page
 
-## IV. Consolidation? (Late Stage)
+Continuing to deepen the project or business financial analysis is critical at this stage.
+
+Another critical component is securing a site and working with local agencies, the county, and other compliance authorities to secure permitting needs. Permits can torpedo any project and having these in hand or well down a pathway of being completed is critical here.
+
+## IV. Late-stage
+Steps in this stage are the final touches to put your planning and feasibility analyses for the project in place and prepare the organization for implementation. Some final steps include
 
 - Final engineering/design
 - Construction and operating permits
 - Complete lender/investor requirements and financial close
 - Establish construction schedule and plan
 - Procure long-lead equipment
-- Pitch deck
+- Hone pitch deck
 
-## V. Operations
+## V. Implementation
+Time to take the plunge! Implementation is busy, can completely envelope a business, so don't forget to pause and reflect and go back to the above make sure you're implementing how you planned. Check in with and get feedback from, your funders, but also don't let them micro-manage the project.
 
 ## VI. Stock taking
+We recommend stock-taking and results analysis at each of the startup pathways stages. It's also a good idea to analyze outcomes annually, determine learning from those outcomes, and make adjustments. Communicating to your key funders and audiences about this process and your learning is an open and honest way to gain support and feedback for the work and process being undertaken.
 
 # Resources
 - **Forest Business Alliance Startup Pathways Workshops**. FBA held a series of startup pathways workshops focused on mobile modular wood processing, startup pathways, and financing options in the middle of March 2026. This chapter is a summary of the key points during those workshops. The finance portion of the workshop is available as a recording on the FBA YouTube Channel. Please see the [workshops](https://forestbusinessalliance.org/workshops.html) page of the FBA website for links to the recording and agendas.

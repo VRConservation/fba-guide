@@ -27,7 +27,7 @@ abstract: |
 exports:
   - format: docx
     template: curvenote
-    output: exports/10-pathways.docx
+    output: exports/13-closeout.docx
     article_type: Report
 ---
 

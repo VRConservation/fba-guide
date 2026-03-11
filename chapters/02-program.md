@@ -164,15 +164,15 @@ Goals and objectives are critical for program design, maintaining focus, and mea
 
 **Goals** are the high-level, long-term results and impacts an organization or business seeks to achieve. Derived from the scope of your situation assessment, they represent the desired status of the specific targets identified. Like objectives, goals are specific, measurable, and time-bound but typically over a much longer period, e.g., decades rather than months or years. Unlike objectives, the project’s goal statement is usually general and abstract, describing a desired state beyond the project's life. For this reason, a goal will not have an associated indicator. Program goals are the nexus for your organization's projects.
 
-```{admonition} Goal Example
+:::{admonition} Goal Example
 By 2035, forest health will be significantly improved in California's Central Coast region through management techniques such as thinning and prescribed fire.
-```
+:::
 
 **Objectives** represent the higher-order changes in systems, communities, or organizations that can reasonably be achieved during a project's time frame and provide the building blocks to achieve goals. Well-written objectives are SMART = specific, measurable, achievable, results-oriented, and time-bound and are tied to the intermediate results and outcomes in a theory of change or results chain. In many projects, objectives reflect the benefits expected to occur by the end of the project as a result of behavioral changes at the interim results level. Goals are how you want the world to be, and objectives describe what you will do to reach those goals.
 
-```{admonition} Objective Example
+:::{admonition} Objective Example
 By September 2025, 300 future thinning and prescribed fire crew members from the Central Coast Region will be trained and red-carded.
-```
+:::
 
 **Interim results** state the expected changes in identifiable behaviors by participants or in identifiable approaches by interventions, systems, policies, or institutions as a result of what was gained (outputs) through project actions (activities). Progress at this level is a necessary precondition for achieving the objectives. Write intermediate results as complete sentences, as if already achieved. Put the targeted primary beneficiary group(s) whose behavior is expected to change as the sentence's subject. Interim results may focus on demonstrable evidence of behavior change, such as adoption, uptake, or coverage.
 
