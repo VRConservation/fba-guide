@@ -16,8 +16,9 @@ authors:
   - name: Regine Miller
     affiliations:
       - Headwaters Environmental, Inc.
-
-
+  - name: Others??
+    affiliations:
+      - Various   
 license: CC-BY-4.0
 keywords: lookback, review, pluses, deltas
 abstract: |
@@ -30,7 +31,7 @@ exports:
 ---
 
 # Takeaways
-Summary of the review. Table summary below is illustrative only. We should brainstorm these on a call.
+Summary of the review. Table summary below is illustrative only.
 
 
 | **PLUSES**    | **DELTAS**  |
