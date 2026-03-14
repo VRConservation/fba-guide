@@ -129,18 +129,6 @@ The FBA can also review projects and proposals, with our staff writers' years of
 
 Good luck!
 
-:::{attention} Recommendations to Funders
-:class: dropdown
-
-Putting together proposals in response to foundation and government agency requests for proposals (RFPs) can often be an arduous process. It doesn’t have to be this way, and some foundations and agencies are much better at it than others. They vary so widely that it’s hard to make generalizations, but the best pay more attention to process and capacity building. Here are our suggestions for funders:
-
-1. **Streamline the initial application process**. One page: tasks, budget, qualifications. That’s it! Details later! Don't make grantees answer 17 questions and develop a 50-page proposal for funding; they may have a small chance of securing funding. That's not fair to them or reviewers.
-2. **Consider participatory grant-making**. What if we flattened the decision-making process for who gets funding and included grantees in it? What if grantmaking by all funders were more transparent and less opaque? Maybe this would require more time up front by funders, but it could lead to stronger projects and improved connections to grantees.
-3. **Rethink proposal forms**. Consider providing templates in Word or PDF format that grantees can fill out, then upload the saved documents to your grant portal instead of using online forms that require filling out each section before moving on to the next. No one should have to cut and paste their proposal to submit it online; that is so 1990s. Look for other ways to automate this process with grantees.
-4. **Shorten RFPs**. RFPS in excess of 20 pages make it difficult for grantees to translate into proposals. List what you want and how much to apply for; leave the legalese for funding recipients, e.g., don't include pages of appendices with contracts and required forms. The legal documentation can include an online link, and other key documents, e.g., a model budget or scope, could also be made available.
-5. **Set realistic due dates**. Not January 2, the week after Thanksgiving, or even during the summer school holidays. Also, don't release RFPs on December 23rd; that's verging on Ebenezer Scrooge behavior. These due dates aren't made up; we have experienced this for grants and heard from partners about the same.
-:::
-
 # Resources
 The project design chapter is a very brief look at how to develop projects and proposals. You'll want to dive deeper to develop your project and proposal craft. Here are a few additional resources to get going:
 
