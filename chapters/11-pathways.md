@@ -3,7 +3,7 @@ title: DRAFT Startup Pathways
 subject: Startups
 subtitle: Developmental roadmap for Tribal and non-Tribal wood product startups
 short_title: 11. Startup pathways
-date: 2025-11-01
+date: 2026-03-15
 authors:
   - name: Vance Russell
     affiliations:
@@ -49,7 +49,7 @@ We often go straight to funding when it comes to startup challenges, but funding
 5. **Leadership to run wood processing facilities**. Although experienced labor to run mills may be available, as has been the case for Tahoe Forest Products and J&C Lumber, finding skilled leadership for supervisory positions to support operations and grow startups may be difficult [@Swezy].
 
 # Funding & Finance
-A critical component of funding and finance is matching the stage of business development {numref}`path-stage`. Aligning resources and advisory roles in this fashion can help accelerate development through the right kind of funding or finance. 
+A critical component of funding and finance is matching the stage of business development {numref}`path-stage`. Note these are broader stages than the startup pathways stages and therefore have slightly different names. Aligning resources and advisory roles in this fashion can help accelerate development through the right kind of funding or finance. 
 
 :::{warning} 🦄VCs/Equity Finance ≠ 🪵Wood Products Businesses
 :class:dropdown
@@ -57,17 +57,17 @@ A critical component of funding and finance is matching the stage of business de
 - **Equity financing** is also not typically appropriate for small businesses typical of the forest industry. As a small business, you would have to pay the financier profits annually or, over time, buy them out. On the plus side, with equity financing, you don't have a loan repayment schedule.
 :::
 
-:::{table} Match your funding/finance to your business stage (may be different from the pathways stages). Adapted from the Do Good CFO slide deck from the Startup Pathways Workshop.
+:::{table} Match your funding/finance to your business stage (may be different from the pathways stages). Pilot is years 1-2, Early Revenue 2-4. Adapted from the Do Good CFO slide deck from the Startup Pathways Workshop. Note these are broader stages than the startup pathways stages.
 :label: path-stage
 :align: center
 
 | Stage | Primary Tool | Secondary Tool | Avoid (for now) |
 |----------------|--------------|----------------|-----------------|
-| Pre-revenue / Concept | Grants (CAL FIRE, USFS) | Friends & Family equity | *Bank debt, VC* |
-| Pilot / MVP (Year 1-2) | Grants + Equipment Finance | SBA Microloan | *Dilutive equity* |
-| Early Revenue (Yr 2-4) | SBA 7(a) / CDFI Debt | Revenue-Based Finance | *Large VC rounds* |
-| Growing / Profitable | USDA B&I / Bond Finance | Growth equity (impact) | *Predatory lenders* |
-| Scaling / Expanding | Full capital stack | Strategic equity partners | *Single-source dependency* |
+| Concept | Grants | Friends & family equity | *Bank debt, VC* |
+| Pilot | Grants + equipment finance | SBA microloan | *Dilutive equity* |
+| Early Revenue | SBA 7(a) / CDFI Debt | Revenue-based finance | *Large VC rounds* |
+| Growing | USDA B&I / bond finance | Growth equity | *Predatory lenders* |
+| Scaling | Full capital stack | Strategic equity partners | *Single-source dependency* |
 :::
 
 ## Grant Funding
@@ -84,10 +84,10 @@ Grant funding is an excellent source to start up businesses and test any pilots 
 |----------------|--------------|
 | **Equipment Financing** | • Asset IS the collateral — easier to qualify<br>• Up to 100% of equipment cost<br>• Terms: 3–7 years, rates: 6–12%<br>• Great for sawmills, kilns, planers, trucks |
 | **SBA 7(a) Loans** | • Up to \$5M, govt-guaranteed<br>• Working capital, equipment, real estate<br>• Longer terms = lower monthly payments<br>• Requires 2+ yrs in business, decent credit |
-| **IBank Loan Guarantee** | • State-administered by IBank — complements SBA<br>• Guarantees up to 80% of loan, max \$5M<br>• 1–750 employees; equipment, working capital, construction<br>• Prioritizes job creation in underserved communities<br>• 7-year term; lender connects via ibank.ca.gov |
+| **iBank Loan Guarantee** | • State-administered by iBank — complements SBA<br>• Guarantees up to 80% of loan, max \$5M<br>• Equipment, working capital, construction, 1–750 employees<br>• Prioritizes job creation in underserved communities<br>• Lender connects via ibank.ca.gov, 7-year term |
 | **Revenue-Based Financing** | • Repay as % of monthly revenue<br>• No fixed payment — cash-flow friendly<br>• Faster approval, less collateral needed<br>• Higher effective cost — use strategically |
 | **CDFIs & USDA Loans** | • Community Development Finance Institutions<br>• Rural Community Assistance Corporation<br>• USDA B&I: up to \$25M for rural business<br>• Slower but more flexible underwriting |
-| **Industrial Dev. Bonds** | • IBank-administered; up to \$10M tax-exempt financing<br>• For manufacturing facilities & equipment<br>• Government-rate interest — significant savings vs. commercial debt<br>• Process: 120–150 days; IBank team guides applicants<br>• Best for: larger capital projects (\$3M+) |
+| **Industrial Dev. Bonds** | • iBank-administered, up to \$10M tax-exempt financing<br>• For manufacturing facilities & equipment<br>• Government-rate interest — significant savings vs. commercial debt<br>• Process: 120–150 days; IBank team guides applicants<br>• Best for: larger capital projects (\$3M+) |
 :::
 
 :::{warning} Finance Due Diligence
