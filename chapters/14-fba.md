@@ -20,7 +20,7 @@ exports:
 ---
 
 # Takeaways
-A summary of pluses (what went well) and deltas (what we would change) for FBA Phase I are provided in {numref}`deltas`. The current items are for illustrative purposes only.
+A summary of pluses (what went well) and deltas (what we would change) for FBA Phase I are provided in {numref}`deltas`. {numref}`metric-summary` provides a summary of project achievements according to metrics. Highlights include 96% of bdt treated, 107% successful proposals and more than 100% for workshop/pln numbers and participants.
 
 :::{table} Summary of pluses (what went well) and deltas (what we would change) for FBA Phase I. Current pluses/deltas listed are for illustrative purposes only and will be updated following a more detailed review.
 :label: deltas
@@ -28,21 +28,20 @@ A summary of pluses (what went well) and deltas (what we would change) for FBA P
 
 | **PLUSES**                                       | **DELTAS**                           |
 | ------------------------------------------------ | ------------------------------------ |
-| _Technical Assistance_                           |                                      |
+| *Technical Assistance*                           |                                      |
 | 🟢 Providing direct TA to BWD program applicants | 🟡 More targeted TA                  |
 | 🟢 Tribal TA                                     | 🟡 Funding gap                       |
 | 🟢 Funding and finance options                   | 🟡 Office hours sparsely attended    |
 | 🟢 Useful resource/reference tools               | 🟡 Expand to new statewide programs  |
-| 🟢 wood products businesses geospatial and contact databases | 🟡  |
-| _Workshops_                                      |                                      |
+| 🟢 wood products businesses geospatial and contact databases |   |
+| *Workshops*                                      |                                      |
 | 🟢 Tribal workshops                              | 🟡 Varied attendance                 |
 | 🟢 Funding & finance best attended               | 🟡 Best turnouts during grant rounds |
-| _Peer Learning Network_                          |                                      |
-| 🟢 Created network                               | 🟡 Need to discover key modality to connect & network businesses |
+| *Peer Learning Network*                          |                                      |
+| 🟢 Created network                               | 🟡 Need modality to better connect businesses |
 | 🟢 Tribal PLN                                    | 🟡 Change to business specific network sessions|
 | 🟢 Great participation around grand deadlines    | 🟡 Increase on-ground presence |
-| 🟢 Sierra Institute field trip    | 🟡 Increased field visits |
-
+| 🟢 Sierra Institute field trip                   | 🟡 Increased field visits |
 :::
 
 # Background
@@ -58,28 +57,29 @@ The design of the Forest Business Alliance is intentionally structured to delive
 :align: center
 
 | **Category/Metric**                                 | **Amount** | **% Achieved** |
-| --------------------------------------------------- | ---------: | -----------: |
-| **B. Biomass Treated or Generation Capacity (BDT)** | **9,595**  | **96**       |
-| b1. Solid Wood Processing (BDT)                     | 9,595      |              |
-| **C. Forest Sector Jobs Created**                   | **370**    | **49**       |
-| c1. Forest Sector Jobs Created                      | 370        |              |
-| **F. Forest-Sector Workers Trained**                | **165**    | **66**       |
-| f1. Logging Workers                                 | 15         |              |
-| f2. Fuels Treatment Workers                         | 147        |              |
-| f3. Transportation                                  | 3          |              |
-| **G. Certifications Earned**                        | **273**    | **91**       |
-| g1. Logging                                         | 5          |              |
-| g2. Fuels Treatment                                 | 188        |              |
-| g3. Transportation                                  | 3          |              |
-| g5. Prescribed Fire                                 | 77         |              |
-| **Additional Metrics**                              |            |              |
-| Contacts made                                       | 774        | 155 |
-| Proposals submitted                                 | 48         | 96  |
-| Successful proposal                                 | 16         | 107 |
-| Workshops                                           | 39         | 195 |
-| Workshop participants                               | 544        | 109 |
-| PLN meetings                                        | 29         | 116 |
-| PLN participants                                    | 587        | 1468|
+| --------------------------------------------------- | ---------: | -------------: |
+| **B. Biomass Treated or Generation Capacity (BDT)** |  **9,595** |         **96** |
+| b1. Solid Wood Processing (BDT)                     |      9,595 |                |
+| **C. Forest Sector Jobs Created**                   |    **370** |         **49** |
+| c1. Forest Sector Jobs Created                      |        370 |                |
+| **F. Forest-Sector Workers Trained**                |    **165** |         **66** |
+| f1. Logging Workers                                 |         15 |                |
+| f2. Fuels Treatment Workers                         |        147 |                |
+| f3. Transportation                                  |          3 |                |
+| **G. Certifications Earned**                        |    **273** |         **91** |
+| g1. Logging                                         |          5 |                |
+| g2. Fuels Treatment                                 |        188 |                |
+| g3. Transportation                                  |          3 |                |
+| g5. Prescribed Fire                                 |         77 |                |
+| **Additional Metrics**                              |            |                |
+| Contacts made                                       |        774 |            155 |
+| Proposals submitted                                 |         48 |             96 |
+| Successful proposal                                 |         16 |            107 |
+| Workshops                                           |         39 |            195 |
+| Workshop participants                               |        544 |            109 |
+| PLN meetings                                        |         29 |            116 |
+| PLN participants                                    |        587 |           1468 |
+
 :::
 
 **Summary of other outreach and programmatic metrics
@@ -89,10 +89,10 @@ Graphs of TA provided and membership over time?**
 Review of the Forest Business Alliance was conducted through both internal and external processes to assess program effectiveness and inform future directions. External review consisted of personal communications and surveys distributed to FBA participants to gather feedback on their experiences and outcomes. Internal review took the form of a facilitated staff meeting that systematically examined the pluses and deltas of each program component and carefully considered next steps for program development.
 
 ## Technical Assistance
-Pluses/deltas discussion for FBA and Tribal FBA
+Technical assistance proved to be a core strength of FBA Phase I, with direct support to BWD applicants, specialized Tribal TA, and comprehensive resources including funding and finance options and geospatial/contact databases for wood products businesses helping to build sector capacity. However, several opportunities for improvement emerged: TA delivery needs to be more strategically targeted, a funding gap was identified, office hours saw sparse attendance, and expansion into additional statewide programs is needed. These deltas suggest that while the foundation of TA provision is solid, the program should refine its delivery mechanisms and extend its reach to maximize engagement and impact.
 
 ## Workshops
-Pluses/deltas discussion for FBA and Tribal FBA
+FBA delivered 39 workshops to 544 participants, exceeding the target by 195%, with tribal workshops and funding & finance sessions drawing the strongest attendance. Participation varied significantly across workshop types and timing, reflecting inconsistent interest or scheduling challenges. Workshops tied to grant deadlines consistently saw the best turnout, suggesting participants prioritized sessions when facing immediate funding deadlines. Funding & finance workshops resonated most because applicants needed specific knowledge to complete proposals for entities with money. Phase II should anchor the workshop schedule to grant cycles and continue emphasizing tribal and funding-focused offerings.
 
 ## Peer Learning Network
 Good participation around CalFire grant deadlines—this probably illustrates PLN was perceived as a good CalFire support group specialized in grant funding. In-person PLN meeting to Sierra Institute and nearby organizations was well attended and participants developed good peer-to-peer and organizational connections (though qualitative, hard to document). Funding limited for in-person field trips. Change to business specific network, e.g., mills or biomass only sessions
