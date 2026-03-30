@@ -20,8 +20,16 @@ exports:
     article_type: Report
 ---
 
+:::{figure} /figures/pathways/path.png
+:label: path-graph
+:alt: Pathways graphic
+:align: center
+
+Sample startup pathways.
+:::
+
 # Takeaways
-Following steps from concept to implementation with a checklist of to-dos at each stage is an ideal way to structure your startup pathway. Modify the steps, checklist, and waypoints to suit your startup's needs. Some key takeaways for the wood product businesses and organizational program/project startup include the following:
+Following steps from concept to implementation with a checklist of to-dos at each stage is an ideal way to structure your startup pathway. Modify the steps, checklist, and waypoints to suit your startup's needs ({numref}`path-graph`). Some key takeaways for the wood product businesses and organizational program/project startup include the following:
 
 1. **Program design vs. startup**. Understanding the distinction between designing a program and launching a business is critical to aligning your development pathway with the right resources and expectations.
 2. **Stress testing feasibility**. Rigorously testing your concept through scoping and feasibility analysis prevents costly mistakes and ensures your business model can withstand real-world conditions.
@@ -39,7 +47,7 @@ We often go straight to funding when it comes to startup challenges, but funding
 2. **Lack of infrastructure**. Access to power, other mills, replacement parts for mills, maintenance workers, or other infrastructure critical to your business function can make or break how efficiently and profitably you run.
 3. **Inability to facilitate long-term feedstock agreements**. @Swezy mentions that once the sawlog supply normalized following the Dixie Fire, that although the regional Forest Service leadership is trying to align with the Wildfire and Forest Resilience Task Force Action [Plan](https://wildfiretaskforce.org/action-plan) for treatment targets, these objectives do not often match the local district ranger capacity to secure feedstock contracts nor the funding for the work resulting in inconsistent log supplies and financial instability for wood processing facilities.
 4. **Sparse networking and partner opportunities**. This is important for nonprofits in particular, as well as for businesses working with collaboratives. At another level, partnering to share resources, investment, equipment, workforce, and infrastructure can mutually support new businesses.
-5. **Leadership to run wood processing facilities**. Although experienced labor to run mills may be available, as has been the case for Tahoe Forest Products and J&C Lumber, finding skilled leadership for supervisory positions to support operations and grow startups may be difficult [@Swezy].
+5. **Workforce to run wood processing facilities**. Although experienced labor to run mills may be available, finding skilled leadership for supervisory positions to support operations and grow startups may be difficult and has negatively affected the long-term viability of new mills and processing facilities.
 
 # Funding & Finance
 A critical component of funding and finance is matching the stage of business development {numref}`path-stage`. Note these are broader stages than the startup pathways stages and therefore have slightly different names. Aligning resources and advisory roles in this fashion can help accelerate development through the right kind of funding or finance.

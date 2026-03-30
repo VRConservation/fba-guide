@@ -31,12 +31,11 @@ project:
     - file: chapters/14-fba.md
     - file: glossary.md
 
-
 site:
   template: book-theme
   options:
     favicon: images/favicon.ico
-    logo: fba-square.png
+    logo: fba-square.svg
   nav:
     - title: CAL FIRE BWD
       url: https://www.fire.ca.gov/what-we-do/natural-resource-management/climate-and-energy-program/wood-products-and-bioenergy
