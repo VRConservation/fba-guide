@@ -1,25 +1,18 @@
 ---
 title: DRAFT Startup Pathways
 subject: Startups
-subtitle: Developmental roadmap for Tribal and non-Tribal wood product startups
+subtitle: Developmental roadmap for wood product startups
 short_title: 11. Startup pathways
-date: 2025-11-01
+date: 2026-03-15
 authors:
   - name: Vance Russell
     affiliations:
       - 3point.xyz
     email: vance@3point.xyz
-  - name: Christopher Sacco
-    affiliations:
-      - Aegis Conservation
-    email: chris@aegisconservation.com
-  - name: Regine Miller
-    affiliations:
-      - Headwaters Environmental
 license: CC-BY-4.0
 keywords: startups, planning, pathways
 abstract: |
-  The business world is full of startup stories and legends, but they're not focused on businesses in the wood products industry. Starting a wood products business in California is exceptionally challenging, given the lack of infrastructure and permitting, and the difficulty of obtaining long-term (>3 years) feedstock contracts from government agencies such as the Forest Service. Funding and finance are challenging, given the lack of lender expertise in the field and investors' desire for returns over shorter time periods. We offer lessons and approaches for new businesses negotiating this challenging environment, along with funding and non-funding resources that can pave the way to success.
+  The business world is full of startup stories and legends, but they're not focused on businesses in the wood products industry. Starting a wood products business in California is exceptionally challenging, given the lack of infrastructure and permitting, and the difficulty of obtaining long-term (>3 years) feedstock contracts from government agencies such as the Forest Service. Funding and finance are challenging, given lenders' limited expertise in the field and investors' desire for returns over shorter time horizons. We offer lessons and approaches for new businesses negotiating this challenging environment, along with funding and non-funding resources that can pave the way to success.
 exports:
   - format: docx
     template: curvenote
@@ -27,8 +20,16 @@ exports:
     article_type: Report
 ---
 
+:::{figure} /figures/pathways/path.png
+:label: path-graph
+:alt: Pathways graphic
+:align: center
+
+Sample startup pathways.
+:::
+
 # Takeaways
-Following steps from concept to implementation with a checklist of to-dos at each stage is an ideal way to structure your startup pathway. Modify the steps, checklist, and waypoints to suit your startup's needs. Some key takeaways for the wood product businesses and organizational program/project startup include the following:
+Following steps from concept to implementation with a checklist of to-dos at each stage is an ideal way to structure your startup pathway. Modify the steps, checklist, and waypoints to suit your startup's needs ({numref}`path-graph`). Some key takeaways for the wood product businesses and organizational program/project startup include the following:
 
 1. **Program design vs. startup**. Understanding the distinction between designing a program and launching a business is critical to aligning your development pathway with the right resources and expectations.
 2. **Stress testing feasibility**. Rigorously testing your concept through scoping and feasibility analysis prevents costly mistakes and ensures your business model can withstand real-world conditions.
@@ -37,7 +38,12 @@ Following steps from concept to implementation with a checklist of to-dos at eac
 5. **Networking & collaboration**. Building partnerships to share resources, equipment, workforce, and infrastructure can provide mutual support and accelerate success in this sparsely connected industry.
 
 # Introduction
-Program design and the feasibility analysis steps for a startup are connected processes but unique in different ways. Program design focuses on establishing vision, goals, and the conceptual framework for what you want to achieve, while feasibility analysis rigorously tests whether that vision can be practically and financially realized. For wood products businesses in California, this dual approach is essential given the unique challenges of securing feedstock contracts, navigating complex permitting processes, and securing appropriate financing. The startup pathway outlined in this chapter provides a structured progression from concept to implementation, with checkpoints to stress-test your assumptions at each stage. By matching the right resources, expertise, and capital to each phase of development, you can navigate the challenging landscape and build a sustainable forest-based business.
+Program design and the feasibility analysis steps for a startup are connected processes but unique in different ways. Program design focuses on establishing vision, goals, and the conceptual framework for what you want to achieve, while feasibility analysis rigorously tests whether that vision can be practically and financially realized. For wood products businesses in California, this dual approach is essential given the unique challenges of securing feedstock contracts, navigating complex permitting processes, and securing appropriate financing. The startup pathway outlined in this chapter provides a structured progression from concept to implementation, with checkpoints to stress-test your assumptions at each stage. By matching the right resources, expertise, and capital to each phase of development, one can navigate the challenging landscape and build a sustainable forest-based business.
+
+:::{important} Wood Processing & Native American Tribes
+:class:dropdown
+Wood processing programs led by Native American Tribes are an important, and occasionally overlooked, area of wood products. Tribal-led wood processing programs are often multi-benefit operations that intertwine directly with providing wood products for Tribal citizens and community members, workforce development for Tribal citizens and community members, and land management or restoration goals. While these operations vary in size, they face many of the same challenges as business or nonprofit wood-processing start-ups. Contact the Forest Business Alliance team for additional resources on Tribal-led wood processing programs.
+:::
 
 # Challenges
 We often go straight to funding when it comes to startup challenges, but funding can be symptomatic of other issues that hinder forest businesses from getting up and running. Some of these include
@@ -46,44 +52,43 @@ We often go straight to funding when it comes to startup challenges, but funding
 2. **Lack of infrastructure**. Access to power, other mills, replacement parts for mills, maintenance workers, or other infrastructure critical to your business function can make or break how efficiently and profitably you run.
 3. **Inability to facilitate long-term feedstock agreements**. @Swezy mentions that once the sawlog supply normalized following the Dixie Fire, that although the regional Forest Service leadership is trying to align with the Wildfire and Forest Resilience Task Force Action [Plan](https://wildfiretaskforce.org/action-plan) for treatment targets, these objectives do not often match the local district ranger capacity to secure feedstock contracts nor the funding for the work resulting in inconsistent log supplies and financial instability for wood processing facilities.
 4. **Sparse networking and partner opportunities**. This is important for nonprofits in particular, as well as for businesses working with collaboratives. At another level, partnering to share resources, investment, equipment, workforce, and infrastructure can mutually support new businesses.
-5. **Leadership to run wood processing facilities**. Although experienced labor to run mills may be available, as has been the case for Tahoe Forest Products and J&C Lumber, finding skilled leadership for supervisory positions to support operations and grow startups may be difficult [@Swezy].
+5. **Workforce to run wood processing facilities**. Although experienced labor to run mills may be available, finding skilled leadership for supervisory positions to support operations and grow startups may be difficult and has negatively affected the long-term viability of new mills and processing facilities.
 
 # Funding & Finance
-A critical component of funding and finance is matching the stage of business development {numref}`path-stage`. Aligning resources and advisory roles in this fashion can help accelerate development through the right kind of funding or finance. 
+A critical component of funding and finance is matching the business development stage {numref}`path-stage`. Note these are broader stages than the startup pathways stages and therefore have slightly different names. Aligning resources and advisory roles in this fashion can help accelerate development through the right kind of funding or finance.
 
 :::{warning} 🦄VCs/Equity Finance ≠ 🪵Wood Products Businesses
 :class:dropdown
+
 - **Venture capital** is almost never appropriate for wood products due to the high return demanded vs. the low return for wood products businesses. VCs are not usually interested in pre-revenue startups.
 - **Equity financing** is also not typically appropriate for small businesses typical of the forest industry. As a small business, you would have to pay the financier profits annually or, over time, buy them out. On the plus side, with equity financing, you don't have a loan repayment schedule.
-:::
+  :::
 
-:::{table} Match your funding/finance to your business stage (may be different from the pathways stages). Adapted from the Do Good CFO slide deck from the Startup Pathways Workshop.
+:::{table} Match your funding/finance to your business stage (may be different from the pathways stages). Pilot is years 1-2, Early Revenue 2-4. Adapted from the Do Good CFO slide deck from the Startup Pathways Workshop. Note these are broader stages than the startup pathways stages.
 :label: path-stage
 :align: center
 
-| Stage | Primary Tool | Secondary Tool | Avoid (for now) |
-|----------------|--------------|----------------|-----------------|
-| Pre-revenue / Concept | Grants (CAL FIRE, USFS) | Friends & Family equity | *Bank debt, VC* |
-| Pilot / MVP (Year 1-2) | Grants + Equipment Finance | SBA Microloan | *Dilutive equity* |
-| Early Revenue (Yr 2-4) | SBA 7(a) / CDFI Debt | Revenue-Based Finance | *Large VC rounds* |
-| Growing / Profitable | USDA B&I / Bond Finance | Growth equity (impact) | *Predatory lenders* |
-| Scaling / Expanding | Full capital stack | Strategic equity partners | *Single-source dependency* |
+| Stage         | Primary Tool               | Secondary Tool            | Avoid (for now)            |
+| ------------- | -------------------------- | ------------------------- | -------------------------- |
+| Concept       | Grants                     | Friends & family equity   | _Bank debt, VC_            |
+| Pilot         | Grants + equipment finance | SBA microloan             | _Dilutive equity_          |
+| Early Revenue | SBA 7(a) / CDFI Debt       | Revenue-based finance     | _Large VC rounds_          |
+| Growing       | USDA B&I / bond finance    | Growth equity             | _Predatory lenders_        |
+| Scaling       | Full capital stack         | Strategic equity partners | _Single-source dependency_ |
+
 :::
 
 ## Grant Funding
-Grant funding is an excellent source to start up businesses and test any pilots you have in mind.
+Grant funding is an excellent source to start up businesses and test any pilots you have in mind. Please see the proposal and planning chapters for more details and various online grant request for proposals portals for available grants. A golden rule of funding is creating a singular strategy based on three layers: 1. grants/incentives; 2. debt; and 3. equity.[^dogood] Maximize grants first, then take on only the debt you can service, considering equity last or not at all ({numref}`layer-graphic`).
 
-:::{attention} Recommendations to Funders
-:class: dropdown
-
-Putting together proposals in response to foundation and government agency requests for proposals (RFPs) can often be an arduous process. It doesn’t have to be this way, and some foundations and agencies are much better at it than others. They vary so widely that it’s hard to make generalizations, but the best pay more attention to process and capacity building. Here are our suggestions for funders:
-
-1. **Streamline the initial application process**. One page: tasks, budget, qualifications. That’s it! Details later! Don't make grantees answer 17 questions and develop a 50-page proposal for funding; they may have a small chance of securing funding. That's not fair to them or reviewers.
-2. **Consider participatory grant-making**. What if we flattened the decision-making process for who gets funding and included grantees in it? What if grantmaking by all funders were more transparent and less opaque? Maybe this would require more time up front by funders, but it could lead to stronger projects and improved connections to grantees.
-3. **Rethink proposal forms**. Consider providing templates in Word or PDF format that grantees can fill out, then upload the saved documents to your grant portal instead of using online forms that require filling out each section before moving on to the next. No one should have to cut and paste their proposal to submit it online; that is so 1990s. Look for other ways to automate this process with grantees.
-4. **Shorten RFPs**. RFPS in excess of 20 pages make it difficult for grantees to translate into proposals. List what you want and how much to apply for; leave the legalese for funding recipients, e.g., don't include pages of appendices with contracts and required forms. The legal documentation can include an online link, and other key documents, e.g., a model budget or scope, could also be made available.
-5. **Set realistic due dates**. Not January 2, the week after Thanksgiving, or even during the summer school holidays. Also, don't release RFPs on December 23rd; that's verging on Ebenezer Scrooge behavior. These due dates aren't made up; we have experienced this for grants and heard from partners about the same.
+:::{figure} /figures/pathways/layers.png
+:label: layer-graphic
+:alt: Resources for finance
+:align: center
+Three layers, one strategy approach to funding startups. From Do Good CFO.
 :::
+
+[^dogood]: Neal Gottlieb, personal communication, 2026, Startup Pathways Workshop.
 
 ## Debt Options
 {numref}`debtoptions` shows the various debt finance options available and appropriate to forest-based businesses.
@@ -92,17 +97,18 @@ Putting together proposals in response to foundation and government agency reque
 :label: debtoptions
 :align: center
 
-| Financing Type | Key Features |
-|----------------|--------------|
-| **Equipment Financing** | • Asset IS the collateral — easier to qualify<br>• Up to 100% of equipment cost<br>• Terms: 3–7 years, rates: 6–12%<br>• Great for sawmills, kilns, planers, trucks |
-| **SBA 7(a) Loans** | • Up to \$5M, govt-guaranteed<br>• Working capital, equipment, real estate<br>• Longer terms = lower monthly payments<br>• Requires 2+ yrs in business, decent credit |
-| **IBank Loan Guarantee** | • State-administered by IBank — complements SBA<br>• Guarantees up to 80% of loan, max \$5M<br>• 1–750 employees; equipment, working capital, construction<br>• Prioritizes job creation in underserved communities<br>• 7-year term; lender connects via ibank.ca.gov |
-| **Revenue-Based Financing** | • Repay as % of monthly revenue<br>• No fixed payment — cash-flow friendly<br>• Faster approval, less collateral needed<br>• Higher effective cost — use strategically |
-| **CDFIs & USDA Loans** | • Community Development Finance Institutions<br>• Rural Community Assistance Corporation<br>• USDA B&I: up to \$25M for rural business<br>• Slower but more flexible underwriting |
-| **Industrial Dev. Bonds** | • IBank-administered; up to \$10M tax-exempt financing<br>• For manufacturing facilities & equipment<br>• Government-rate interest — significant savings vs. commercial debt<br>• Process: 120–150 days; IBank team guides applicants<br>• Best for: larger capital projects (\$3M+) |
+| Financing Type              | Key Features |
+| --------------------------- | --------------------------------------------------------------- |
+| **Equipment Financing**     | • Asset IS the collateral — easier to qualify<br>• Up to 100% of equipment cost<br>• Terms: 3–7 years, rates: 6–12%<br>• Great for sawmills, kilns, planers, trucks                                                                                                                  |
+| **SBA 7(a) Loans**          | • Up to \$5M, govt-guaranteed<br>• Working capital, equipment, real estate<br>• Longer terms = lower monthly payments<br>• Requires 2+ yrs in business, decent credit                                                                                                                |
+| **iBank Loan Guarantee**    | • State-administered by iBank — complements SBA<br>• Guarantees up to 80% of loan, max \$5M<br>• Equipment, working capital, construction, 1–750 employees<br>• Prioritizes job creation in underserved communities<br>• Lender connects via ibank.ca.gov, 7-year term               |
+| **Revenue-Based Financing** | • Repay as % of monthly revenue<br>• No fixed payment — cash-flow friendly<br>• Faster approval, less collateral needed<br>• Higher effective cost — use strategically                                                                                                               |
+| **CDFIs & USDA Loans**      | • Community Development Finance Institutions<br>• Rural Community Assistance Corporation<br>• USDA B&I: up to \$25M for rural business<br>• Slower but more flexible underwriting                                                                                                    |
+| **Industrial Dev. Bonds**   | • iBank-administered, up to \$10M tax-exempt financing<br>• For manufacturing facilities & equipment<br>• Government-rate interest — significant savings vs. commercial debt<br>• Process: 120–150 days; IBank team guides applicants<br>• Best for: larger capital projects (\$3M+) |
+
 :::
 
-:::{warning} Finance Due Diligence
+:::{warning} Financial Due Diligence
 :class:dropdown
 When considering any funding or financing options, always review the fine print in contracts, have your lawyer review them, and do your due diligence for investors or equity investors, e.g., get to know who you're "marrying".
 :::
@@ -114,15 +120,16 @@ Examples of blended finance deal structures are shown in {numref}`dealio`.
 :label: dealio
 :align: center
 
-| Business Type | Financing Structure | Key Details |
-|---------------|---------------------|-------------|
-| **1. Sawmill Startup** | • \$400K Equipment Loan (70% LTV on \$570K equipment)<br>• \$150K SBA Microloan for working capital | Monthly payment: ~\$9,200<br>Year 1 revenue target: \$500K |
-| **2. Mid-scale Processing Facility** | • \$1.2M USDA B&I Loan (25-year term, 6.5%)<br>• \$300K CAL FIRE Grant (reimbursement-based)<br>• \$500K Equipment Line of Credit (revolving) | Monthly B&I payment: ~\$8,700 |
-| **3. Mobile Milling Operation** | • \$80K Equipment Financing (truck + mill)<br>• \$25K Revenue-Based Line (operational cushion) | No fixed facility = lower overhead, faster payback |
+| Business Type                        | Financing Structure                                                                                                                           | Key Details                                                |
+| ------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- |
+| **1. Sawmill Startup**               | • \$400K Equipment Loan (70% LTV on \$570K equipment)<br>• \$150K SBA Microloan for working capital                                           | Monthly payment: ~\$9,200<br>Year 1 revenue target: \$500K |
+| **2. Mid-scale Processing Facility** | • \$1.2M USDA B&I Loan (25-year term, 6.5%)<br>• \$300K CAL FIRE Grant (reimbursement-based)<br>• \$500K Equipment Line of Credit (revolving) | Monthly B&I payment: ~\$8,700                              |
+| **3. Mobile Milling Operation**      | • \$80K Equipment Financing (truck + mill)<br>• \$25K Revenue-Based Line (operational cushion)                                                | No fixed facility = lower overhead, faster payback         |
+
 :::
 
 # Startup pathways
-discuss the development pathway/stages/steps, the types of expertise that are needed to support a project achieving these steps, common pitfalls or hurdles, example projects/case studies, grant funding opportunities to support project development, free TA resources, etc. I don't think we should dive into pitch decks and success monitoring, as these are typically associated with late-stage development.
+We provide a walk through six stages for developing a wood products startup, from brainstorming your initial concept through implementation and scaling. Each stage includes specific checkpoints to test assumptions and prepare for the next phase. Adapt this progression to your business's unique constraints and opportunities.
 
 ## I. Concept
 The concept stage is brainstorming or coming up with the idea that solves a key problem. It is the spitballing stage for the initial ideas that precedes the pre-feasibility stage. Once you get this down on your napkin, it's critical to stress-test it and share it with key people and users to see if it will actually be used.
@@ -187,7 +194,7 @@ Key resources for your capital journey. Adapted from Do Good CFO Startup Pathway
 At the same time, start considering how to scale your business. A more detailed look at scaling can be found in Chapter 9.
 
 # Resources
-- **Key Resources**. A summary of key resources from the Startup Pathways workshop is shown in {numref}`key`. 
+- **Key Resources**. A summary of key resources from the Startup Pathways workshop is shown in {numref}`key`.
 - **Forest Business Alliance Startup Pathways Workshops**. FBA held a series of workshops in March 2026 focused on mobile modular wood processing, startup pathways, and financing options. This chapter summarizes the key points from those workshops. The finance portion of the workshop is available as a recording on the FBA YouTube Channel. Please see the [workshops](https://forestbusinessalliance.org/workshops.html) page of the FBA website for links to the recording and agendas.
 - **Wood Products Campus Siting and Financial Risk Analysis**. As part of the South Central Sierra feedstock aggregation pilot project (https://californiaforestproducts.org/fapps/) sponsored by the California Governor’s Office of Land Use and Climate Innovation (LCI), Wildephor Consulting Services has published a siting and financial risk analysis [report](https://californiaforestproducts.org/wp-content/uploads/2025/11/SCS_SitingandFinancialRiskAnalysis_20250831.pdf). The study included three elements: 1) a biomass feedstock supply analysis; 2) a biomass feedstock storage model; and 3) a biomass project financial risk analysis to produce the Biomass Utilization Financial Feasibility and Sensitivity (BUFFSTM) analysis.
-- **Feedstock Pilots**. The Governor's office of Land Use and Climate Innovation funded 5 [feedstock aggregation pilots](https://californiaforestproducts.org/fapps/) to accelerate the long-term availability of wood feedstock for processing into a variety of products. Several of the pilots formed [Joint Powers Authorities](https://3point.xyz/neca_jpa/) to create local entities that help enable long-term feedstock contracts. The formation of these entities is instructive for startups and links to them are useful to sustainably source wood. 
+- **Feedstock Pilots**. The Governor's office of Land Use and Climate Innovation funded 5 [feedstock aggregation pilots](https://californiaforestproducts.org/fapps/) to accelerate the long-term availability of wood feedstock for processing into a variety of products. Several of the pilots formed [Joint Powers Authorities](https://3point.xyz/neca_jpa/) to create local entities that help enable long-term feedstock contracts. The formation of these entities is instructive for startups, and links to them are useful to sustainably source wood.

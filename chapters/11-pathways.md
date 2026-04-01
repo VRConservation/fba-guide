@@ -12,7 +12,7 @@ authors:
 license: CC-BY-4.0
 keywords: startups, planning, pathways
 abstract: |
-  The business world is full of startup stories and legends, but they're not focused on businesses in the wood products industry. Starting a wood products business in California is exceptionally challenging, given the lack of infrastructure and permitting, and the difficulty of obtaining long-term (>3 years) feedstock contracts from government agencies such as the Forest Service. Funding and finance are challenging, given the lack of lender expertise in the field and investors' desire for returns over shorter time periods. We offer lessons and approaches for new businesses negotiating this challenging environment, along with funding and non-funding resources that can pave the way to success.
+  The business world is full of startup stories and legends, but they're not focused on businesses in the wood products industry. Starting a wood products business in California is exceptionally challenging, given the lack of infrastructure and permitting, and the difficulty of obtaining long-term (>3 years) feedstock contracts from government agencies such as the Forest Service. Funding and finance are challenging, given lenders' limited expertise in the field and investors' desire for returns over shorter time horizons. We offer lessons and approaches for new businesses negotiating this challenging environment, along with funding and non-funding resources that can pave the way to success.
 exports:
   - format: docx
     template: curvenote
@@ -40,9 +40,9 @@ Following steps from concept to implementation with a checklist of to-dos at eac
 # Introduction
 Program design and the feasibility analysis steps for a startup are connected processes but unique in different ways. Program design focuses on establishing vision, goals, and the conceptual framework for what you want to achieve, while feasibility analysis rigorously tests whether that vision can be practically and financially realized. For wood products businesses in California, this dual approach is essential given the unique challenges of securing feedstock contracts, navigating complex permitting processes, and securing appropriate financing. The startup pathway outlined in this chapter provides a structured progression from concept to implementation, with checkpoints to stress-test your assumptions at each stage. By matching the right resources, expertise, and capital to each phase of development, one can navigate the challenging landscape and build a sustainable forest-based business.
 
-:::{important} Wood processing & native American Tribes
+:::{important} Wood Processing & Native American Tribes
 :class:dropdown
-Wood processing programs led by Native American Tribes are an important, and occasionally overlooked, area of wood products. Tribal-led wood processing programs are often multi-benefit operations that intertwine directly with providing wood products for Tribal citizens and community members, workforce development for Tribal citizens and community members, and land management or restoration goals. While these operations vary in size, they face many similar challenges to business or nonprofit wood processing start-ups. Contact the Forest Business Alliance team for additional resources on Tribal-led wood processing programs.
+Wood processing programs led by Native American Tribes are an important, and occasionally overlooked, area of wood products. Tribal-led wood processing programs are often multi-benefit operations that intertwine directly with providing wood products for Tribal citizens and community members, workforce development for Tribal citizens and community members, and land management or restoration goals. While these operations vary in size, they face many of the same challenges as business or nonprofit wood-processing start-ups. Contact the Forest Business Alliance team for additional resources on Tribal-led wood processing programs.
 :::
 
 # Challenges
@@ -55,7 +55,7 @@ We often go straight to funding when it comes to startup challenges, but funding
 5. **Workforce to run wood processing facilities**. Although experienced labor to run mills may be available, finding skilled leadership for supervisory positions to support operations and grow startups may be difficult and has negatively affected the long-term viability of new mills and processing facilities.
 
 # Funding & Finance
-A critical component of funding and finance is matching the stage of business development {numref}`path-stage`. Note these are broader stages than the startup pathways stages and therefore have slightly different names. Aligning resources and advisory roles in this fashion can help accelerate development through the right kind of funding or finance.
+A critical component of funding and finance is matching the business development stage {numref}`path-stage`. Note these are broader stages than the startup pathways stages and therefore have slightly different names. Aligning resources and advisory roles in this fashion can help accelerate development through the right kind of funding or finance.
 
 :::{warning} 🦄VCs/Equity Finance ≠ 🪵Wood Products Businesses
 :class:dropdown
@@ -79,7 +79,7 @@ A critical component of funding and finance is matching the stage of business de
 :::
 
 ## Grant Funding
-Grant funding is an excellent source to start up businesses and test any pilots you have in mind. Please see the proposal and planning chapters for more details and various online grant request for proposals portals for available grants. A golden rule of funding is creating a singular strategy based on three layers: 1. grants/incentives; 2. debt; and 3. equity.[^dogood] Maximize grants first then take on only the debt you can service, considering equity last or not at all ({numref}`layer-graphic`).
+Grant funding is an excellent source to start up businesses and test any pilots you have in mind. Please see the proposal and planning chapters for more details and various online grant request for proposals portals for available grants. A golden rule of funding is creating a singular strategy based on three layers: 1. grants/incentives; 2. debt; and 3. equity.[^dogood] Maximize grants first, then take on only the debt you can service, considering equity last or not at all ({numref}`layer-graphic`).
 
 :::{figure} /figures/pathways/layers.png
 :label: layer-graphic
@@ -129,7 +129,7 @@ Examples of blended finance deal structures are shown in {numref}`dealio`.
 :::
 
 # Startup pathways
-We provide a walk through six stages of developing a wood products startup, from brainstorming your initial concept through implementation and scaling. Each stage includes specific checkpoints to test assumptions and prepare for the next phase. Adapt this progression to your business's unique constraints and opportunities.
+We provide a walk through six stages for developing a wood products startup, from brainstorming your initial concept through implementation and scaling. Each stage includes specific checkpoints to test assumptions and prepare for the next phase. Adapt this progression to your business's unique constraints and opportunities.
 
 ## I. Concept
 The concept stage is brainstorming or coming up with the idea that solves a key problem. It is the spitballing stage for the initial ideas that precedes the pre-feasibility stage. Once you get this down on your napkin, it's critical to stress-test it and share it with key people and users to see if it will actually be used.
@@ -197,4 +197,4 @@ At the same time, start considering how to scale your business. A more detailed 
 - **Key Resources**. A summary of key resources from the Startup Pathways workshop is shown in {numref}`key`.
 - **Forest Business Alliance Startup Pathways Workshops**. FBA held a series of workshops in March 2026 focused on mobile modular wood processing, startup pathways, and financing options. This chapter summarizes the key points from those workshops. The finance portion of the workshop is available as a recording on the FBA YouTube Channel. Please see the [workshops](https://forestbusinessalliance.org/workshops.html) page of the FBA website for links to the recording and agendas.
 - **Wood Products Campus Siting and Financial Risk Analysis**. As part of the South Central Sierra feedstock aggregation pilot project (https://californiaforestproducts.org/fapps/) sponsored by the California Governor’s Office of Land Use and Climate Innovation (LCI), Wildephor Consulting Services has published a siting and financial risk analysis [report](https://californiaforestproducts.org/wp-content/uploads/2025/11/SCS_SitingandFinancialRiskAnalysis_20250831.pdf). The study included three elements: 1) a biomass feedstock supply analysis; 2) a biomass feedstock storage model; and 3) a biomass project financial risk analysis to produce the Biomass Utilization Financial Feasibility and Sensitivity (BUFFSTM) analysis.
-- **Feedstock Pilots**. The Governor's office of Land Use and Climate Innovation funded 5 [feedstock aggregation pilots](https://californiaforestproducts.org/fapps/) to accelerate the long-term availability of wood feedstock for processing into a variety of products. Several of the pilots formed [Joint Powers Authorities](https://3point.xyz/neca_jpa/) to create local entities that help enable long-term feedstock contracts. The formation of these entities is instructive for startups and links to them are useful to sustainably source wood.
+- **Feedstock Pilots**. The Governor's office of Land Use and Climate Innovation funded 5 [feedstock aggregation pilots](https://californiaforestproducts.org/fapps/) to accelerate the long-term availability of wood feedstock for processing into a variety of products. Several of the pilots formed [Joint Powers Authorities](https://3point.xyz/neca_jpa/) to create local entities that help enable long-term feedstock contracts. The formation of these entities is instructive for startups, and links to them are useful to sustainably source wood.
