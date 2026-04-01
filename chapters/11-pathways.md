@@ -1,7 +1,7 @@
 ---
 title: DRAFT Startup Pathways
 subject: Startups
-subtitle: Developmental roadmap for Tribal and non-Tribal wood product startups
+subtitle: Developmental roadmap for wood product startups
 short_title: 11. Startup pathways
 date: 2026-03-15
 authors:
@@ -39,6 +39,11 @@ Following steps from concept to implementation with a checklist of to-dos at eac
 
 # Introduction
 Program design and the feasibility analysis steps for a startup are connected processes but unique in different ways. Program design focuses on establishing vision, goals, and the conceptual framework for what you want to achieve, while feasibility analysis rigorously tests whether that vision can be practically and financially realized. For wood products businesses in California, this dual approach is essential given the unique challenges of securing feedstock contracts, navigating complex permitting processes, and securing appropriate financing. The startup pathway outlined in this chapter provides a structured progression from concept to implementation, with checkpoints to stress-test your assumptions at each stage. By matching the right resources, expertise, and capital to each phase of development, one can navigate the challenging landscape and build a sustainable forest-based business.
+
+:::{important} Wood processing & native American Tribes
+:class:dropdown
+Wood processing programs led by Native American Tribes are an important, and occasionally overlooked, area of wood products. Tribal-led wood processing programs are often multi-benefit operations that intertwine directly with providing wood products for Tribal citizens and community members, workforce development for Tribal citizens and community members, and land management or restoration goals. While these operations vary in size, they face many similar challenges to business or nonprofit wood processing start-ups. Contact the Forest Business Alliance team for additional resources on Tribal-led wood processing programs.
+:::
 
 # Challenges
 We often go straight to funding when it comes to startup challenges, but funding can be symptomatic of other issues that hinder forest businesses from getting up and running. Some of these include
