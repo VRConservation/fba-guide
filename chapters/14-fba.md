@@ -58,7 +58,7 @@ The design of the Forest Business Alliance is intentionally structured to delive
 
 | **Category/Metric**                                 | **Amount** | **% Achieved** |
 | --------------------------------------------------- | ---------: | -------------: |
-| **CALFIRE Metrics**                                |            |                |
+| **CALFIRE Metrics**                                 |            |                |
 | B. Biomass Treated or Generation Capacity (BDT)     |     13,595 |            136 |
 | C. Forest Sector Jobs Created                       |        573 |             76 |
 | F. Forest-Sector Workers Trained                    |        195 |             78 |
@@ -71,7 +71,7 @@ The design of the Forest Business Alliance is intentionally structured to delive
 | Workshop participants                               |        559 |            112 |
 | PLN meetings                                        |         29 |            116 |
 | PLN participants                                    |        587 |           1468 |
-| **List-serv members**                              |            |                |
+| **List-Serv Members**                               |            |                |
 | Peer Learning Network                               |         45 |            n/a |
 | Forest Business Alliance                            |        157 |            n/a |
 
