@@ -15,7 +15,7 @@ abstract: |
 exports:
   - format: docx
     template: curvenote
-    output: exports/13-closeout.docx
+    output: exports/14-review.docx
     article_type: Report
 ---
 
