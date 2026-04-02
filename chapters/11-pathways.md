@@ -38,7 +38,7 @@ Following steps from concept to implementation with a checklist of to-dos at eac
 5. **Networking & collaboration**. Building partnerships to share resources, equipment, workforce, and infrastructure can provide mutual support and accelerate success in this sparsely connected industry.
 
 # Introduction
-Program design and the feasibility analysis steps for a startup are connected processes but unique in different ways. Program design focuses on establishing vision, goals, and the conceptual framework for what you want to achieve, while feasibility analysis rigorously tests whether that vision can be practically and financially realized. For wood products businesses in California, this dual approach is essential given the unique challenges of securing feedstock contracts, navigating complex permitting processes, and securing appropriate financing. The startup pathway outlined in this chapter provides a structured progression from concept to implementation, with checkpoints to stress-test your assumptions at each stage. By matching the right resources, expertise, and capital to each phase of development, one can navigate the challenging landscape and build a sustainable forest-based business.
+Program design and the feasibility analysis steps for a startup are connected processes, but they differ in important ways. Program design focuses on establishing vision, goals, and the conceptual framework for what you want to achieve, while feasibility analysis rigorously tests whether that vision can be practically and financially realized. For wood products businesses in California, this dual approach is essential given the unique challenges of securing feedstock contracts, navigating complex permitting processes, and securing appropriate financing. The startup pathway outlined in this chapter provides a structured progression from concept to implementation, with checkpoints to stress-test your assumptions at each stage. By matching the right resources, expertise, and capital to each phase of development, one can navigate the challenging landscape and build a sustainable forest-based business.
 
 :::{important} Wood Processing & Native American Tribes
 :class:dropdown
@@ -64,7 +64,7 @@ A critical component of funding and finance is matching the business development
 - **Equity financing** is also not typically appropriate for small businesses typical of the forest industry. As a small business, you would have to pay the financier profits annually or, over time, buy them out. On the plus side, with equity financing, you don't have a loan repayment schedule.
   :::
 
-:::{table} Match your funding/finance to your business stage (may be different from the pathways stages). Pilot is years 1-2, Early Revenue 2-4. Adapted from the Do Good CFO slide deck from the Startup Pathways Workshop. Note these are broader stages than the startup pathways stages.
+:::{table} Match your funding/finance to your business stage (may be different from the pathways stages). Pilot: years 1-2; Early Revenue: 2-4. Adapted from the Do Good CFO slide deck from the Startup Pathways Workshop. Note these are broader stages than the startup pathways stages.
 :label: path-stage
 :align: center
 
@@ -79,13 +79,13 @@ A critical component of funding and finance is matching the business development
 :::
 
 ## Grant Funding
-Grant funding is an excellent source to start up businesses and test any pilots you have in mind. Please see the proposal and planning chapters for more details and various online grant request for proposals portals for available grants. A golden rule of funding is creating a singular strategy based on three layers: 1. grants/incentives; 2. debt; and 3. equity.[^dogood] Maximize grants first, then take on only the debt you can service, considering equity last or not at all ({numref}`layer-graphic`).
+Grant funding is an excellent source of funding to start businesses and test any pilots you have in mind. Please see the proposal and planning chapters for more details, and consult various online grant request proposal portals for available grants. A golden rule of funding is creating a singular strategy based on three layers: 1. grants/incentives; 2. debt; and 3. equity.[^dogood] Maximize grants first, then take on only the debt you can service, considering equity last or not at all ({numref}`layer-graphic`).
 
 :::{figure} /figures/pathways/layers.png
 :label: layer-graphic
 :alt: Resources for finance
 :align: center
-Three layers, one strategy approach to funding startups. From Do Good CFO.
+Three layers, one strategy for funding startups. From Do Good CFO.
 :::
 
 [^dogood]: Neal Gottlieb, personal communication, 2026, Startup Pathways Workshop.
@@ -120,11 +120,11 @@ Examples of blended finance deal structures are shown in {numref}`dealio`.
 :label: dealio
 :align: center
 
-| Business Type                        | Financing Structure                                                                                                                           | Key Details                                                |
-| ------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- |
-| **1. Sawmill Startup**               | • \$400K Equipment Loan (70% LTV on \$570K equipment)<br>• \$150K SBA Microloan for working capital                                           | Monthly payment: ~\$9,200<br>Year 1 revenue target: \$500K |
-| **2. Mid-scale Processing Facility** | • \$1.2M USDA B&I Loan (25-year term, 6.5%)<br>• \$300K CAL FIRE Grant (reimbursement-based)<br>• \$500K Equipment Line of Credit (revolving) | Monthly B&I payment: ~\$8,700                              |
-| **3. Mobile Milling Operation**      | • \$80K Equipment Financing (truck + mill)<br>• \$25K Revenue-Based Line (operational cushion)                                                | No fixed facility = lower overhead, faster payback         |
+| Business Type  | Financing Structure  | Key Details                        |
+| -------------------------- | ------------------------------ | ------------ |
+| **1. Sawmill Startup** | • \$400K Equipment Loan (70% LTV on \$570K equipment)<br>• \$150K SBA Microloan for working capital | Monthly payment: ~\$9,200<br>Year 1 revenue target: \$500K |
+| **2. Mid-scale Processing Facility** | • \$1.2M USDA B&I Loan (25-year term, 6.5%)<br>• \$300K CAL FIRE Grant (reimbursement-based)<br>• \$500K Equipment Line of Credit (revolving) | Monthly B&I payment: ~\$8,700 |
+| **3. Mobile Milling Operation** | • \$80K Equipment Financing (truck + mill)<br>• \$25K Revenue-Based Line (operational cushion) | No fixed facility = lower overhead, faster payback |
 
 :::
 

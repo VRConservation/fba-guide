@@ -28,8 +28,8 @@ project:
         - file: chapters/cases/washoe.md
         - file: chapters/cases/forestree.md
     - file: chapters/13-closeout.md
-    - file: chapters/14-fba-draft.md
-    # - file: chapters/14-fba.md
+    # - file: chapters/14-fba-draft.md
+    - file: chapters/14-fba.md
     - file: glossary.md
 
 site:
@@ -42,5 +42,7 @@ site:
       url: https://www.fire.ca.gov/what-we-do/natural-resource-management/climate-and-energy-program/wood-products-and-bioenergy
     - title: ConFi
       url: https://3point.xyz/confi
-    - title: YWA
-      url: https://www.yubawater.org
+    - title: Biomass Solutions
+      url: https://3point.xyz/biomass/
+    - title: Feedstock Aggregation
+      url: https://3point.xyz/neca_jpa/ 
