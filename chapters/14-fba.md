@@ -107,7 +107,7 @@ Technical assistance proved to be a core strength of FBA Phase I, with direct su
 FBA delivered 39 workshops to 559 participants, exceeding the target by 195% and total participants by 112%, with tribal workshops and funding & finance sessions drawing the strongest attendance. Participation varied significantly across workshop types and timing, reflecting inconsistent interest or scheduling challenges. Workshops tied to grant deadlines consistently saw the best turnout, suggesting participants prioritized sessions when facing immediate funding deadlines. Funding & finance workshops resonated most because applicants needed specific knowledge to complete proposals for entities with money. Phase II should anchor the workshop schedule to grant cycles and continue emphasizing tribal and funding-focused offerings.
 
 ## Peer Learning Network
-> "I left the Peer Learning Network meetings feeling inspried and made contact with many members afterwards." Mika Cook, Sustainable Rural Forest Community Strategist, Humboldt
+> "I left each Peer Learning Network meeting feeling inspired and made contact with many members afterwards." Mika Cook, Sustainable Rural Forest Community Strategist, Humboldt
 
 Good participation around CalFire grant deadlines—this probably indicates that PLN was perceived as a strong CalFire support group specializing in grant funding. The in-person PLN meeting at Sierra Institute was well attended, and participants developed strong peer-to-peer and organizational connections (though qualitative, hard to document). Funding for in-person field trips is limited. Change to business-specific network, e.g., mills or biomass only sessions.
 
