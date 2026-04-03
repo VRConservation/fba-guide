@@ -88,16 +88,16 @@ Throughout Phase I of FBA, we tracked stages of contacts from initial identifica
 :alt: Pathways graphic
 :align: center
 
-Progression of pipeline technical assistance from FBA startup to present.
+Progression of FBA pipeline technical assistance.
 :::
 
 Examined in a different manner, cumulative technical assistance rises dramatically over time, while numbers for other pipeline stages roughly stay the same {numref}`pipe-sum`.
 
-:::{figure} /figures/review/cumulative-pipe.png
+:::{figure} /figures/review/pipe-cumul.png
 :label: pipe-sum
 :alt: Pathways graphic
 :align: center
-Cumulative pipeline engagement over time.
+Cumulative pipeline categories over time.
 :::
 
 ## Technical Assistance
