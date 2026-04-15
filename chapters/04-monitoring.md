@@ -25,6 +25,9 @@ exports:
       template: curvenote
       output: exports/04-monitoring.docx
       article_type: Report
+    - format: typst
+      template: lapreprint-typst
+      output: pdf/04-monitoring.pdf
 ---
 
 (monit:reference)=

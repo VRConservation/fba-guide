@@ -18,6 +18,9 @@ exports:
     template: curvenote
     output: exports/11-pathways.docx
     article_type: Report
+  - format: typst
+    template: lapreprint-typst
+    output: pdf/11-pathways.pdf     
 ---
 
 :::{figure} /figures/pathways/path.png

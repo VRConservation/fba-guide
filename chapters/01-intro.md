@@ -22,6 +22,9 @@ exports:
     template: curvenote
     output: exports/01-intro.docx
     article_type: Report
+  - format: typst
+    template: lapreprint-typst
+    output: pdf/01-intro.pdf   
 ---
 
 # About

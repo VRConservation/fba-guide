@@ -28,6 +28,9 @@ exports:
     template: curvenote
     output: exports/10-grantmgmt.docx
     article_type: Report
+  - format: typst
+    template: lapreprint-typst
+    output: pdf/10-grantmgmt.pdf     
 ---
 
 # Takeaways

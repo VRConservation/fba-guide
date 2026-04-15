@@ -17,6 +17,9 @@ exports:
     template: curvenote
     output: exports/14-review.docx
     article_type: Report
+  - format: typst
+    template: lapreprint-typst
+    output: pdf/14-fba.pdf  
 ---
 
 # Takeaways

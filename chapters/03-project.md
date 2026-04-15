@@ -25,6 +25,9 @@ exports:
       template: curvenote
       output: exports/03-project.docx
       article_type: Report
+    - format: typst
+      template: lapreprint-typst
+      output: pdf/03-project.pdf  
 ---
 
 # Iterative Design

@@ -29,6 +29,9 @@ exports:
       template: curvenote
       output: exports/06-ceqa.docx
       article_type: Report
+    - format: typst
+      template: lapreprint-typst
+      output: pdf/06-ceqa.pdf       
 ---
 # Background
 

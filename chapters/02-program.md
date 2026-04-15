@@ -25,6 +25,9 @@ exports:
       template: curvenote
       output: exports/02-program.docx
       article_type: Report
+    - format: typst
+      template: lapreprint-typst
+      output: pdf/02-program.pdf   
 ---
 
 (program:reference)=

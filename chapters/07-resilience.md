@@ -29,6 +29,9 @@ exports:
       template: curvenote
       output: exports/07-resilience.docx
       article_type: Report
+    - format: typst
+      template: lapreprint-typst
+      output: pdf/07-resilience.pdf       
 ---
 
 # Wildfire

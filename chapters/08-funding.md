@@ -21,6 +21,9 @@ exports:
     template: curvenote
     output: exports/08-funding.docx
     article_type: Report
+  - format: typst
+    template: lapreprint-typst
+    output: pdf/08-funding.pdf     
 ---
 
 *Chapter updated to include 2025q1 grant awards*

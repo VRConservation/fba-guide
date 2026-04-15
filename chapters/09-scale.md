@@ -21,6 +21,9 @@ exports:
     template: curvenote
     output: exports/09-scale.docx
     article_type: Report
+  - format: typst
+    template: lapreprint-typst
+    output: pdf/09-scale.pdf     
 ---
 
 # Takeaways

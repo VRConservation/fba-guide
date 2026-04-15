@@ -29,6 +29,9 @@ exports:
     template: curvenote
     output: exports/13-closeout.docx
     article_type: Report
+  - format: typst
+    template: lapreprint-typst
+    output: pdf/13-closeout.pdf     
 ---
 
 # Takeaways
