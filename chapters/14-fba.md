@@ -20,6 +20,8 @@ exports:
 ---
 
 # Takeaways
+> Creating a successful new business is not just about having a good idea, it's about structuring your effort appropriately for the financing needed to get started. This means understanding all aspects of your proposed idea so you have a workable business plan. FBA participant
+
 {numref}`deltas` summarizes the pluses (what went well) and deltas (what we would change) for FBA Phase I. Technical assistance was well-received and helped participants, and workshop turnout and participation were high, especially for funding and finance topics. The peer learning network was greatly appreciated for networking opportunities, but the participant numbers for live webinars fluctuated widely. {numref}`metric-summary` provides a summary of project achievements according to metrics. Highlights include 136% of bdt treated, 107% successful proposals, and more than 100% for the total number of workshops and participants.
 
 :::{table} Summary of pluses (what went well) and deltas (what we would change) for FBA Phase I. Current pluses/deltas listed are for illustrative purposes only and will be updated following a more detailed review.
@@ -71,7 +73,7 @@ The design of the Forest Business Alliance is intentionally structured to delive
 | Workshop participants                               |        559 |            112 |
 | PLN meetings                                        |         29 |            116 |
 | PLN participants                                    |        587 |           1468 |
-| **List-Serv Members**                               |            |                |
+| **List-serv Members**                               |            |                |
 | Peer Learning Network                               |         45 |            n/a |
 | Forest Business Alliance                            |        157 |            n/a |
 
@@ -88,7 +90,7 @@ Throughout Phase I of FBA, we tracked stages of contacts from initial identifica
 :alt: Pathways graphic
 :align: center
 
-Progression of FBA pipeline technical assistance.
+Progression of FBA vpipeline technical assistance.
 :::
 
 Examined in a different manner, cumulative technical assistance rises dramatically over time, while numbers for other pipeline stages roughly stay the same {numref}`pipe-sum`.
@@ -109,16 +111,18 @@ FBA delivered 39 workshops to 559 participants, exceeding the target by 195% and
 ## Peer Learning Network
 > "I left each Peer Learning Network meeting feeling inspired and made contact with many members afterwards." Mika Cook, Sustainable Rural Forest Community Strategist, Humboldt
 
-Good participation around CalFire grant deadlines—this probably indicates that PLN was perceived as a strong CalFire support group specializing in grant funding. The in-person PLN meeting at Sierra Institute was well attended, and participants developed strong peer-to-peer and organizational connections (though qualitative, hard to document). Funding for in-person field trips is limited. Change to business-specific network, e.g., mills or biomass only sessions.
+Good participation around CalFire grant deadlines—this probably indicates that PLN was perceived as a strong CalFire support group specializing in grant funding. The in-person PLN meeting at Sierra Institute was well attended, and participants developed strong peer-to-peer and organizational connections (though qualitative, hard to document). Another approach could be to change to business-specific network, e.g., mills or biomass only sessions. One participant also noted that specific examples of financing wood products businesses as a key need for their startup.
 
 > "The amount of experience in the wood products industry to lend *ad hoc* expertise is limited.  I really appreciated the speakers, fieldtrips, and networking provided by the Network." Temra Costa, Regenerative Forest Solutions
+
 # Next Steps
 It is clear there is a need for capacity building and technical assistance for businesses and nonprofits in the wood products sector. In particular, needs are highest around organizational structure/mission, business planning, proposal writing, funding, finance, and grant administration. The following steps are based on feedback from businesses and nonprofits that FBA is assisting, as well as our collective experience over the initial project term. The following are the highest priority items:
 
-1. **Focus on technical assistance & key workshops**. Direct technical assistance was one of the most effective forms of support FBA provided. The challenge was connecting with new and existing organizations, but this has greatly improved over time. Workshops were best attended during grant rounds and when they focused on proposal development or funding, especially funding/finance from entities with money (agencies, banks, foundations, private investors).
-2. **Reconfigure the Peer Learning Network or focus on specific topics with similar businesses**. Tribal PLN was well attended, key reasons why? PLN was well attended at grant rounds or with key speakers (e.g., River City Bank). But attendance was low in the latter half of Phase I. Focusing on a network of businesses that need it, or creating ad hoc networks when the need arises, might be a better approach.
-3. **Continue funding Tribal Workshops**. These have been very well attended and in high demand for a variety of topics. Creating additional or follow-up resources with the workshops could supplement capacity building.
-4. **Increase connection to unsuccessful grant applicants**. Last year, FBA reached out to more previously unsuccessful grant applicants and helped several secure funding through key adjustments to their program design and grant-writing approaches.
-5. **Continue communications & outreach**. Each year, more people know about FBA and reach out, either unsolicited or at the advice of CALFIRE staff, for technical assistance. Having outreach materials such as the guide, website, and webinar/workshop recordings is not just an incredible learning resource but also a library for providing assistance.
+1. **Focus on technical assistance & key workshops**. Direct technical assistance was one of the most effective forms of support FBA provided. Whereas connecting with new and existing organizations was initially challenging, this has significantly improved. Workshops drew the strongest attendance during grant rounds, particularly when focused on proposal development and funding from sources such as agencies, banks, foundations, and private investors. 
+2. **Reconfigure the Peer Learning Network or focus on specific topics with similar businesses**. Tribal PLN was well attended. PLN was well attended at grant rounds or with key speakers (e.g., River City Bank). But attendance was low in the latter half of Phase I. Focusing on a network of businesses that need it, or creating ad hoc networks when the need arises, might be a better approach. 
+3. **Continue funding Tribal Workshops**. These have been very well attended and in high demand for a variety of topics. Creating additional or follow-up resources with the workshops could supplement capacity building. 
+4. **Expand outreach to unsuccessful grant applicants**. Recent efforts show measurable success in targeted assistance to applicants who needed extra assistance to refine grant applications, strengthen sections, or add specificity to other portions of their grants. 
+5. **Continue communications & outreach**. Growing awareness drives organic inquiries and CAL FIRE referrals. Existing materials (Guide, website, webinar/workshop recordings) effectively introduce FBA and extend reach. 
+6. **Conduct further analysis comparing Tribal PLN vs. general PLN** participation metrics and implement systematic outreach to new startups and nonprofit programs, especially in regions with low application rates or limited grant-writing capacity. 
 
 Additional review of the difference in Peer Learning Network participation between the general PLN and the Tribal PLN would be helpful. Systematic outreach to new startups and nonprofit programs is a feature of the technical assistance that should continue, especially in regions with fewer applicants or lower capacity to apply.
