@@ -75,7 +75,7 @@ The design of the Forest Business Alliance is intentionally structured to delive
 | Workshops                                           |         39 |            195 |
 | Workshop participants                               |        559 |            112 |
 | PLN meetings                                        |         29 |            116 |
-| PLN participants                                    |        587 |           1468 |
+| PLN participants                                    |        587 |          1,468 |
 | **List-serv Members**                               |            |                |
 | Peer Learning Network                               |         45 |            n/a |
 | Forest Business Alliance                            |        157 |            n/a |
