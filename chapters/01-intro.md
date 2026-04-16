@@ -59,4 +59,4 @@ We will add new chapters as they become ready. Please check back regularly!
 13. **Grant Closeout**. How to leverage and learn from closing out your grant.
 14. **FBA Review**. Review of FBA Phase I with recommendations for future work.
 
-Downloads in markdown, MS Word, and pdf are available for each chapter by clicking the download icon in the upper right corner of each document and selecting the format you want. If you want to download the entire book in pdf, go to the fba-guide.pdf [file](https://github.com/VRConservation/fba-guide/blob/main/fba-guide.pdf) in the Github repository then click download download raw file icon in the upper right above the pdf document.
+Downloads in markdown, MS Word, and pdf are available for each chapter by clicking the download icon in the upper right corner of each document and selecting the format you want. To download the entire book in pdf, go to the fba-guide.pdf [file](https://github.com/VRConservation/fba-guide/blob/main/fba-guide.pdf) in the Github repository then click download download raw file icon in the upper right portion of the page.
