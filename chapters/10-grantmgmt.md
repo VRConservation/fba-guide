@@ -127,11 +127,15 @@ CAL FIRE usually requires an activity report with every invoice, and prefers the
 Financial reporting is where you lay out your costs associated with the activities performed during the reporting period. You will provide detailed expenditures by budget category. You would also include any matching contributions you may have that were recorded during the Reporting Period. It is important to produce backup documentation (e.g., receipts, timesheets, and vendor invoices). Financial reports must reconcile with your internal accounting records. Your Financial Report is a summary of what your costs were for your Reporting Period. Don't forget to stay on track with your grant timeline and budget.
 
 ## Automation
-There are many software packages for managing and automating financial tracking and reporting. Most are focused on small to medium-sized businesses and may offer reporting templates, but they are not typically relevant to forest product businesses or nonprofits. 
+There are many software packages for managing and automating financial tracking and reporting. Some are better at project management, while others excel at financial. Most are focused on small to medium-sized businesses and may offer reporting templates, but they are not typically relevant to forest product businesses or nonprofits or they are exceptionally expensive and have many features you won't use or need.
 
-[Miradi](https://www.miradishare.org/) is an exception to the general financial accounting software. It is available online or as a desktop version and nicely integrates projects from situation assessment, theory of change, results chains, progress tracking, to reporting. It does have a subscription plan of \$350/year (2025), more if you want to customize report templates. Still, the community, connection to many foundations and nonprofits that adopted the [Conservation Standards](https://3point.xyz/cmp5), and integration of the entire project make it a worthwhile investment if you choose to operate in that system. It is geared more towards nonprofits, however, so it may not be as useful for small business owners.
+[Quickbooks](https://quickbooks.intuit.com/) is a good solution for desktop or online financial management and is well integrated to taxes for businesses and nonprofits. It does not help you manage the project or write reports, although it will export p/l ledgers and other relevant financial information useful for reporting. It does come with a subscription and the software is proprietary.
 
-Try the Python automation if you're comfortable using a command-line interface in a terminal or prefer a DIY approach. Use the executable example if you want similar automation but using a graphical interface. 
+[Miradi](https://www.miradishare.org/) is a well thought out program planning and project management software. It is available online or as a desktop version and nicely integrates projects from situation assessment, theory of change, results chains, progress tracking, budgeting, and reporting. It does have a subscription plan of \$350/year (2025), more if you want to customize report templates. Still, the community, connection to many foundations and nonprofits that adopted the [Conservation Standards](https://3point.xyz/cmp5), and integration of the entire project make it a worthwhile investment if you choose to operate in that system. It is geared more towards nonprofits, however, so it may not be as useful for small business owners.
+
+Markdown based knowledge management systems such as [Obsidian](https://obsidian.md/) are another project management resource. With plugins such as Hearth that create dashboards (potentially for each of your projects) and written in markdown, which is usable across many platforms, you can create a workflow to manage projects that saves times and keeps you on top of all tasks. Further integration using base within Obsidian, allows you to quickly index multiple files, qualitative, and quantitative data.
+
+A wise person once said use programming to automate the boring stuff and reporting can sometimes be a less exciting part of your work, particularly for large agency grants. Try the Python automation below if you're comfortable using a command-line interface in a terminal or prefer a DIY approach. The same software we've developed will also soon have a browser based app that you can fill out using localhost and then export to word, pdf, html, and markdown. This approach means fewer steps to get a consistent report format and the browser based version will allow for sentence/paragraph snippets to import frequently used language in your reporting. Although this is just reporting, it could be expanded to other repetitious grant management aspects such as proposals, financials, and contracting. Since this software is free and open source, you are welcome to clone or fork and adapt it. You may find using this to be very liberating!
 
 :::{tip} Python Example
 :class: dropdown
@@ -189,21 +193,13 @@ The install will download and install. You can verify the installation by typing
 - The bugs are still being worked out, but you will be able to create a PDF of the report by running `autorpt --pdf` soon.
 - Modify content.md with new information each time you need to create a report. Each time you run autorpt a new version will be made so you can edit drafts and not overwrite previous versions.
 - This is an example only, and we get that you could copy and paste in Word and Excel to create a report, but this eliminates those steps and lets you focus on the report content rather than production. You can also modify the report content with new sections or rename the sections according to your reporting requirements.
-:::
 
-:::{tip} Python Executable AVAILABLE SOON!
-:class: dropdown
+7. Run autorpt in a browser
+- Open your folder with the repository and your file information in vs code or your favorite code editor
+- Activate your virtual environment
+- Enter `auto start` to run the graphical user interface
 
-Alternatively, if you're not comfortable using a terminal and command-line interface, and would rather click, you can download autorpt.exe, which opens a user interface with Word and PDF document options ({numref}`gui-fig`). Download [gui.exe](https://github.com/VRConservation/autorpt/blob/main/content.md). Make sure the .exe file is stored in a file with the content.md and budget.xlsx, and the interface will generate the reports for you when pressing the buttons.
-
-PLEASE NOTE THIS IS NOT YET FUNCTIONAL BUT WILL BE AVAILABLE SOON
-
-```{figure} ../figures/gui.png
-:name: gui-fig
-:height: 250px
-Graphical user interface for autorpt.
-```
-Select the report you want to create with content.md and budget.xlsx downloaded from the same [repository](https://github.com/VRConservation/autorpt) that houses the gui.exe and stored in the same folder that you saved the gui.exe and run the executable.
+Doumentation with examples and tutorials will be available at the [autorpt](https://3point.xyz/autorpt/) site. Please let us know if you use it and have any issues or feature requests.
 :::
 
 # Best Practices
