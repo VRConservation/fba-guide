@@ -137,69 +137,62 @@ Markdown based knowledge management systems such as [Obsidian](https://obsidian.
 
 A wise person once said use programming to automate the boring stuff and reporting can sometimes be a less exciting part of your work, particularly for large agency grants. Try the Python automation below if you're comfortable using a command-line interface in a terminal or prefer a DIY approach. The same software we've developed will also soon have a browser based app that you can fill out using localhost and then export to word, pdf, html, and markdown. This approach means fewer steps to get a consistent report format and the browser based version will allow for sentence/paragraph snippets to import frequently used language in your reporting. Although this is just reporting, it could be expanded to other repetitious grant management aspects such as proposals, financials, and contracting. Since this software is free and open source, you are welcome to clone or fork and adapt it. You may find using this to be very liberating!
 
-:::{tip} Python Example
+:::{tip} Propongo a proposal generator and project tracker 
 :class: dropdown
-We offer a simple example that requires some setup time but automates your reporting in a customizable format. Similar to any recipe, there are some *mise en place* steps to undertake before getting to the fun stuff, especially if you've never coded before. Don't worry, none of it is difficult, and once you set it up and it works, you can step outside your office, beat your chest, and yell, "I am a coding superstar!". Well, maybe don't yell that. Here are the setup steps[^foss].
+We offer a simple example that requires some setup time but automates your reporting in a customizable format. Similar to any recipe, there are some *mise en place* steps to undertake before getting to the fun stuff, especially if you've never coded before. Don't worry, none of it is difficult, and once you set it up and it works, you can step outside your office, beat your chest, and yell, "I am a coding superstar!". Well, maybe don't yell that. Here are the setup steps[^foss]. A summary from that mini guide is provided below.
 
-1. Install [conda](https://docs.conda.io/projects/conda/en/latest/user-guide/install/index.html). Decide if you want the lightweight command interface, miniconda, or the desktop-based Anaconda.
-2. Open a terminal. In Windows, press the Windows key and type 'terminal,' then open the Terminal app or Windows PowerShell. You should see the following:
+1. If you're on Windows, make sure to install [GTK3](https://github.com/tschoonj/GTK-for-Windows-Runtime-Environment-Installer/releases/) first. 
+2. Install [conda](https://docs.conda.io/projects/conda/en/latest/user-guide/install/index.html). Decide if you want the lightweight command interface, miniconda, or the desktop-based Anaconda. The latter is easier to use, but uses significantly more space on your hard drive. Alternatively, you can skip conda and install [uv] instead. UV is faster and manages virtual environments more efficiently in a single file. A guide to do this can be found in the [propongo](https://3point.xyz/propongo/installation/#install-using-uv) installation instructions.
+3. Continuing with conda open a terminal. In Windows, press the Windows key and type 'terminal,' then open the Terminal app or Windows PowerShell. You should see the following:
 
 ```
 (base) C:\Users\yourusername>
 ```
-3. Create a conda virtual environment. Never install packages into your base environment to avoid incompatibilities, which can affect your base (that you can't delete) and make troubleshooting easier. Decide on your environment name; let's call it 'auto' (use a short name, five letters or less), in this case. Type the following command in the terminal and hit enter:
+4. Create a conda virtual environment. Never install packages into your base environment to avoid incompatibilities, which can affect your base (that you can't delete) and make troubleshooting easier. Decide on your environment name; let's call it 'propo' (use a short name, five letters or less), in this case. Type the following command in the terminal and hit enter:
 
 ```
-(base) C:\Users\yourusername> conda create -n auto python
+(base) C:\Users\yourusername> conda create -n propo python
 ```
 
-The terminal will start running, and when it says `Proceed ([y]/n)?` hit enter or y on your keyboard. Conda will download the necessary files and provide instructions for activating or deactivating the new env.
+The terminal will start running the new environment install. When it says `Proceed ([y]/n)?` hit enter or y on your keyboard. Conda will download the necessary files and provide instructions for activating or deactivating the new env.
 
-4. Check installation and activate the auto virtual environment.
+4. Check installation and activate the auto virtual environment. Run the following in your terminal:
 
 ```
 (base) C:\Users\yourusername> conda env list
 ```
 
-You should see a list of the conda environments installed, including auto, and their respective locations. The active env should be the base and have an asterisk next to it. Now activate auto:
+You should see a list of the conda environments installed, including propo, and their respective locations. The active env should be the base and have an asterisk next to it. Now activate auto:
 
 ```
-(base) C:\Users\yourusername> conda activate auto
+(base) C:\Users\yourusername> conda activate propo
 ```
 
 You should see the following:
 
 ```
-(auto) C:\Users\yourusername>
+(propo) C:\Users\yourusername>
 ```
 
-5. Install autorpt:
+5. Install propongo:
 
 ```
-(auto) C:\Users\yourusername> pip install autorpt
+(propo) C:\Users\yourusername> pip install propongo
 ```
 
 The install will download and install. You can verify the installation by typing `conda list`, and it will appear alongside the other installed packages.
 
 [^foss]: Detailed steps for virtual environment and Visual Studio Code setup can be found in the 1st two appendices of [Free & Open Source Geospatial Tools](https://3point.xyz/geosp).
 
-6. Run autorpt:
+6. Run propongo:
 
-- Download the budget.xlsx and content.md files from https://github.com/VRConservation/autorpt and store them in a folder of your choosing. 
-- Open the folder, right-click inside it, and select "Open in Terminal".
-- Activate the virtual env by running `conda activate auto` or use whatever name you've decided.
-- On the command line, type `autorpt`.
-- autorpt will run the script, you'll see progress in the terminal, and a report in Word will be produced.
-- The bugs are still being worked out, but you will be able to create a PDF of the report by running `autorpt --pdf` soon.
-- Modify content.md with new information each time you need to create a report. Each time you run autorpt a new version will be made so you can edit drafts and not overwrite previous versions.
-- This is an example only, and we get that you could copy and paste in Word and Excel to create a report, but this eliminates those steps and lets you focus on the report content rather than production. You can also modify the report content with new sections or rename the sections according to your reporting requirements.
+- Activate the virtual env by running `conda activate propo` or use whatever name you've decided.
+- Open a terminal and on the command line, type `propongo`.
+- propongo will run the script, you'll see progress in the terminal, and a report in Word will be produced.
+- Follow the pages at the top to enter information from scope to budget and timeline.
+- Once basic information is entered and if the project is funded, you can switch to project management mode using the hamburger menu. 
 
-7. Run autorpt in a browser
-- Open your folder with the repository and your file information in vs code or your favorite code editor
-- Activate your virtual environment
-- Enter `auto start` to run the graphical user interface
-
-Doumentation with examples and tutorials will be available at the [autorpt](https://3point.xyz/autorpt/) site. Please let us know if you use it and have any issues or feature requests.
+Doumentation with examples on how to use the software is at the [propongo](https://3point.xyz/propongo/) site. Please let us know if you use it and have any issues or feature requests.
 :::
 
 # Best Practices
