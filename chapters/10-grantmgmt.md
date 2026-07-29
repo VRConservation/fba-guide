@@ -137,7 +137,7 @@ Markdown based knowledge management systems such as [Obsidian](https://obsidian.
 
 A wise person once said use programming to automate the boring stuff and reporting can sometimes be a less exciting part of your work, particularly for large agency grants. Try the Python automation below if you're comfortable using a command-line interface in a terminal or prefer a DIY approach. The same software we've developed will also soon have a browser based app that you can fill out using localhost and then export to word, pdf, html, and markdown. This approach means fewer steps to get a consistent report format and the browser based version will allow for sentence/paragraph snippets to import frequently used language in your reporting. Although this is just reporting, it could be expanded to other repetitious grant management aspects such as proposals, financials, and contracting. Since this software is free and open source, you are welcome to clone or fork and adapt it. You may find using this to be very liberating!
 
-:::{tip} Propongo a proposal generator and project tracker 
+:::{tip} Propongo proposal generator and project tracker 
 :class: dropdown
 We offer a simple example that requires some setup time but automates your reporting in a customizable format. Similar to any recipe, there are some *mise en place* steps to undertake before getting to the fun stuff, especially if you've never coded before. Don't worry, none of it is difficult, and once you set it up and it works, you can step outside your office, beat your chest, and yell, "I am a coding superstar!". Well, maybe don't yell that. Here are the setup steps[^foss]. A summary from that mini guide is provided below.
 
