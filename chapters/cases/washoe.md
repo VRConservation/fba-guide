@@ -20,7 +20,7 @@ exports:
   - format: docx
     template: curvenote
     output: ../../chapters/exports/washoe.docx
-    article_type: Report
+    article_type: Report   
 ---
 
 # Takeaways
