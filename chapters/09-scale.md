@@ -77,17 +77,23 @@ Scaling businesses is a double-edged sword: while it is a well-trodden path with
 - **Sustainability**. How sustainable is your business as it expands? Do you have controls and principles in place to maintain sustainability? Creating and maintaining a focus on a triple bottom line, measuring your company's performance based on profit, people, and planet (or environmental factors), building in B-corp certification, or giving back to the community can be significant factors. At another level, how do all of the factors in this section help your business weather change over time, and how do you measure sustainability or resilience to changes in supply, production, and markets?
 - **Measuring outcomes**. Create monitoring and measurement systems that measure the outcomes or impacts of forest health projects and your company's success.
 
-:::{hint} Test Scaling Assumptions
+```{hint} Case Study: Scaling Test
 :class: dropdown
 
 ## Background
-@scaling offer an excellent and sobering example of scaling a carbon sequestration and wetland restoration project over time. Here we offer a simple example of scaling from 1 to 3 mills. We adapated their case study modeling to a 1 to three mill ramp up scenario in Northern California with a summary of results in this dropdown and detail tables and assumptions provided in [Appendix 1: Scaling Assumptions](https://3point.xyz/fba-guide/appendix1/).
+@scaling offer an excellent and sobering example of scaling a carbon sequestration and wetland restoration project over time. We adapted their case study for a mill ramp up scenario in Northern California. Detailed results from this analysis are provided in [Appendix 1: Scaling Assumptions](https://3point.xyz/fba-guide/appendix1/).
 
-## Start early
-Early on during startup and while getting proof of concept, test scaling assumptions with your organization or business goals. 
+## Stress test
+We stress tested a scaling assumption of starting with a community based mill that processes 1 MMBF/yr. The headline numbers: 3 MMBF/yr of lumber demands roughly 45,000 green tons/yr of small-diameter logs, which requires thinning ~2,250 acres/yr; the program employs ~54 FTE (36 at the mills, 18 in field thinning crews) at a payroll of ~\$3.15M/yr, and needs ~\$4.5M of installed mill capital. Because small-diameter thinning material is volume-hungry and labor-intensive, feedstock and staff together cost roughly 3x the value of the commodity lumber the mills produce.
 
-
+:::{figure} /figures/appendix/ramp.png
+:label: rampchart1
+:width: 70%
+Revenue vs. operating expenses over program ramp-up. 
 :::
+
+Two scaling assumptions fail the stress test in ways that mirror the STAP wetland example. First, replication buys no capital economies of scale: three small mills carry the same \$1.50 per board foot of installed capital as one, versus \$0.67/BF for a single large industrial line. Second, revenue exceeds income {numref}`rampchart1`. The feedstock and staff base is far larger than intuition suggests: 15 green tons of logs are needed per MBF of lumber (vs. 3.8 tons/MBF for large-log industrial mills), and the payroll alone (\$3.15M/yr) exceeds total lumber revenue (\$1.05M/yr).
+```
 
 # Challenges
 Rapid scaling is a huge challenge, particularly for nonprofit organizations that often can't scale quickly because of funding, workforce, and governance issues. These issues can feel overwhelming, but each piece is not insurmountable and often has simple solutions. Patterns of challenges for scaling include
