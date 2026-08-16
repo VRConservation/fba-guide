@@ -80,8 +80,11 @@ Scaling businesses is a double-edged sword: while it is a well-trodden path with
 :::{hint} Test Scaling Assumptions
 :class: dropdown
 
+## Background
+@scaling offer an excellent and sobering example of scaling a carbon sequestration and wetland restoration project over time. Here we offer a simple example of scaling from 1 to 3 mills. We adapated their case study modeling to a 1 to three mill ramp up scenario in Northern California with a summary of results in this dropdown and detail tables and assumptions provided in [Appendix 1: Scaling Assumptions](https://3point.xyz/fba-guide/appendix1/).
+
 ## Start early
-Early on during startup and while getting proof of concept, test scaling assumptions with your organization or business goals. @scaling offer an excellent and sobering example of scaling a carbon sequestration and wetland restoration project over time. Here we offer a simple example of scaling from 1 to 3 mills.
+Early on during startup and while getting proof of concept, test scaling assumptions with your organization or business goals. 
 
 
 :::
