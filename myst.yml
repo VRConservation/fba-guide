@@ -29,6 +29,7 @@ project:
         - file: chapters/cases/forestree.md
     - file: chapters/13-closeout.md
     - file: chapters/14-fba.md
+    - file: appendix1.md
     - file: glossary.md
 
 site:

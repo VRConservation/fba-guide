@@ -58,10 +58,10 @@ Funding is an important factor in scaling that the agricultural examples above d
 ## Emotions
 Molly Graham, from her experience of scaling at Google, Facebook, and Quip, takes a unique scaling approach, examining the people and emotional side of scaling, noting that you should not try to avoid or ignore the emotions that couple with the scaling tornado, but acknowledging they're normal and any other organization will be going through similar circumstances [@graham]. She says that emotional acknowledgment, which she likens to making friends with the monster chewing on your leg, is only half the battle; the other half is how you respond ({numref}`monster`).
 
-```{figure} ../figures/scale/monster.png
+:::{figure} ../figures/scale/monster.png
 :name: monster
 Acknowledging and responding to the monster chewing on your leg is critical for managing scaling. Graphic credit: [@graham].
-```
+:::
 
 Considering emotions in scaling is crucial for managing the workforce and also an important part of scaling leadership.
 
@@ -76,6 +76,15 @@ Scaling businesses is a double-edged sword: while it is a well-trodden path with
 - **Maintenance**. If you're focused on forest health and restoration, build maintenance of previously treated sites into your scale model, considering workforce, transportation, equipment use, and distance to sites for processing wood. Maintaining equipment, vehicles, and other hardware depends on what you build into your costs, how you scale, and whether you have the right people to maintain equipment schedules.
 - **Sustainability**. How sustainable is your business as it expands? Do you have controls and principles in place to maintain sustainability? Creating and maintaining a focus on a triple bottom line, measuring your company's performance based on profit, people, and planet (or environmental factors), building in B-corp certification, or giving back to the community can be significant factors. At another level, how do all of the factors in this section help your business weather change over time, and how do you measure sustainability or resilience to changes in supply, production, and markets?
 - **Measuring outcomes**. Create monitoring and measurement systems that measure the outcomes or impacts of forest health projects and your company's success.
+
+:::{hint} Test Scaling Assumptions
+:class: dropdown
+
+## Start early
+Early on during startup and while getting proof of concept, test scaling assumptions with your organization or business goals. @scaling offer an excellent and sobering example of scaling a carbon sequestration and wetland restoration project over time. Here we offer a simple example of scaling from 1 to 3 mills.
+
+
+:::
 
 # Challenges
 Rapid scaling is a huge challenge, particularly for nonprofit organizations that often can't scale quickly because of funding, workforce, and governance issues. These issues can feel overwhelming, but each piece is not insurmountable and often has simple solutions. Patterns of challenges for scaling include
