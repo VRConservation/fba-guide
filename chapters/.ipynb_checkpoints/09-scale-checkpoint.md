@@ -27,6 +27,7 @@ exports:
 ---
 
 # Takeaways
+
 1. **Tailoring strategies**. Off-the-shelf solutions do not exist, especially in the forest health arena. Tailored scaling strategies are therefore required, but bespoke solutions make scaling challenging, especially when they must be adjusted for each situation, geography, or organizational component.
 2. **Pilots may not work**. Sometimes called the "pilot and pray" approach. In many cases, we may be running out of time, funding, and resources to conduct pilots. However, if you have to pilot a project, try it at a small scale, with clear hypotheses and metrics set up to test effectiveness.
 3. **Measuring outcomes**. Create monitoring and measurement systems that measure outcomes or impacts of forest health projects and your company's success. See the [Monitoring](https://3point.xyz/fba-myst/monitoring) chapter for more details on creating a system to measure your business success.
@@ -34,9 +35,22 @@ exports:
 5. **Leadership**. From an ownership perspective, company leadership can be tricky, e.g., letting go as the company founder when the business expands. Depending on organizational needs, leadership may be needed in different locations or at different times.
 
 # Background
+
 Surprisingly, little is written on scaling nonprofits. Overwhelmingly, a lot is written on scaling businesses; much of it is breathless commentary about tech companies moving from a single founder to 1,000s of employees and how great the fireman's pole at the SOMA office in San Francisco is. Few to none of this _ oeuvre _ is linked to forest health, with most articles focused on scaling tech startups and most exploring the nuts and bolts of scaling.
 
+## Emotions
+
+Molly Graham, from her experience of scaling at Google, Facebook, and Quip, takes a unique scaling approach, examining the people and emotional side of scaling, noting that you should not try to avoid or ignore the emotions that couple with the scaling tornado, but acknowledging they're normal and any other organization will be going through similar circumstances [@graham]. She says that emotional acknowledgment, which she likens to making friends with the monster chewing on your leg, is only half the battle; the other half is how you respond ({numref}`monster`).
+
+```{figure} ../figures/scale/monster.png
+:name: monster
+Acknowledging and responding to the monster chewing on your leg is critical for managing scaling. Graphic credit: [@graham].
+```
+
+Considering emotions in scaling is crucial for managing the workforce and also an important part of scaling leadership. Let's look at other approaches from the conservation and agricultural fields.
+
 ## Up/out/deep
+
 In the conservation arena, @scaling adapted a framework @moore created for scaling conservation nonprofits. Based on their literature review, there are three scaling approaches:
 
 1. **Scaling out** involves replicating the initial pilot with three options: 1. expanding the scope, 2. replicating pilots within a program, and 3. promoting innovation diffusion by capturing and communicating what you've learned and getting other organizations to adopt your strategies.
@@ -54,16 +68,6 @@ Following the agricultural vein, @fertile offers a similar framework to @scaling
 
 ## Planned & scaled funding
 Funding is an important factor in scaling that the agricultural examples above don't cover. In the check your scaling assumptions, @scaling provides an excellent example of developing realistic budgets based on strategic plan goals and costing those out over time. They show that to reach a seemingly realistic but ambitious goal of 500,000 tons of CO<sub>2</sub>e sequestered, a hypothetical organization will have to carry out 250 projects over a decade. This is when s\*%t gets real! They then create a financial model to determine total projects, costs, tons of carbon sequestered, and cost/ton. The upfront work demonstrates the value of testing assumptions made to carry out a plan [@scaling]. A similar analysis could run in parallel, focusing on the staffing and workforce needed to carry out the plan.
-
-## Emotions
-Molly Graham, from her experience of scaling at Google, Facebook, and Quip, takes a unique scaling approach, examining the people and emotional side of scaling, noting that you should not try to avoid or ignore the emotions that couple with the scaling tornado, but acknowledging they're normal and any other organization will be going through similar circumstances [@graham]. She says that emotional acknowledgment, which she likens to making friends with the monster chewing on your leg, is only half the battle; the other half is how you respond ({numref}`monster`).
-
-```{figure} ../figures/scale/monster.png
-:name: monster
-Acknowledging and responding to the monster chewing on your leg is critical for managing scaling. Graphic credit: [@graham].
-```
-
-Considering emotions in scaling is crucial for managing the workforce and also an important part of scaling leadership.
 
 # Forest Businesses
 Scaling businesses is a double-edged sword: while it is a well-trodden path with numerous success stories, the pressure to scale begins immediately, accompanied by expectations for profit and system-wide success. Factors business owners may want to consider when planning to scale include
