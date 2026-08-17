@@ -1,16 +1,10 @@
 # 1. Scaling Assumptions
-Stress testing your scaling assumptions with a model using defensible economic and biophysical values is critical to and future business and project expansion. 
-
-Scenario: A pilot community-scale sawmill processes 1 million board feet (1 MMBF) per year of small-diameter thinning material. Leadership proposes scaling to a program of 3 mills. This note stress-tests the core assumptions, adapting the framework in @scaling. As in that example, the goal is a quick-and-dirty order-of-magnitude check, not a perfect financial model.
-
-Units. MBF = 1,000 board feet; MMBF = 1,000,000 board feet; tons = green (un-dried) short tons; \$ = USD. All staff figures are full-time equivalents (FTE).
-
-**All figures are planning approximations for order-of-magnitude stress-testing (as intended by the STAP framework), not quotes or engineering estimates.**
+Stress testing your scaling assumptions with a model using defensible economic and biophysical values is critical to and future business and project expansion. All figures are approximations for order-of-magnitude stress-testingnot quotes or engineering estimates.
 
 ## Background
-This note stress-tests the decision to scale a pilot community-scale sawmill — processing 1 MMBF/yr of small-diameter thinning material — into a 3-mill program, using the assumptions-based scaling framework in @scaling and outlined in {numref}`mill-param`. The central question is not "can one mill work?" but "what does the system actually require at 3 mills, and does the arithmetic hold?" The headline numbers: 3 MMBF/yr of lumber demands roughly 45,000 green tons/yr of small-diameter logs, which requires thinning ~2,250 acres/yr; the program employs ~54 FTE (36 at the mills, 18 in field thinning crews) at a payroll of ~\$3.15M/yr, and needs ~\$4.5M of installed mill capital. Because small-diameter thinning material is volume-hungry and labor-intensive, feedstock and staff together cost roughly 3x the value of the commodity lumber the mills produce.
+This note stress-tests the decision to scale a pilot community-scale sawmill — processing one MMBF/yr of small-diameter thinning material — into a 3-mill program, using the assumptions-based scaling framework in @scaling and outlined in {numref}`mill-param`. The central question is not "can one mill work?" but "what does the system actually require at 3 mills, and does the arithmetic hold?" The headline numbers: three MMBF/yr of lumber demands roughly 45,000 green tons/yr of small-diameter logs, which requires thinning 2,250 acres/yr; the program employs ~54 FTE (36 at the mills, 18 in field thinning crews) at a payroll of \$3.15M/yr, and needs \$4.5M of installed mill capital. Because small-diameter thinning material is volume-hungry and labor-intensive, feedstock and staff together cost roughly 3x the value of the commodity lumber the mills produce.
 
-:::{table} Key Parameters for a community-scale mill processing 1 mmbf/yr.Installed mill capital cost includes equipment, site, building, debarker, edger, trimmer, kiln, and material handling.
+:::{table} Key Parameters for a community-scale mill processing 1 mmbf/yr.Installed mill capital cost includes equipment, site, building, debarker, edger, trimmer, kiln, and material handling. Units. MBF = 1,000 board feet; MMBF = 1,000,000 board feet; tons = green (un-dried) short tons; \$ = USD. All staff figures are full-time equivalents (FTE).
 :label: mill-param
 
 | # | Parameter | Planning assumption (range) | Basis |
@@ -35,7 +29,7 @@ This note stress-tests the decision to scale a pilot community-scale sawmill —
 Revenue vs. operating expenses over program ramp-up. Assume one mill added every 3 years; no capital economies of scale at replication (unit costs identical across scale). Shaded gap = annual shortfall before coproducts/subsidies.
 :::
 
-Two scaling assumptions fail the stress test in ways that mirror the STAP wetland example. First, replication buys no capital economies of scale: three small mills carry the same \$1.50 per board foot of installed capital as one, versus \$0.67/BF for a single large industrial line. Second, the feedstock and staff base is far larger than intuition suggests: 15 green tons of logs are needed per MBF of lumber (vs. 3.8 tons/MBF for large-log industrial mills), and the payroll alone (\$3.15M/yr) exceeds total lumber revenue (\$1.05M/yr). The exercise therefore surfaces that the program only pencils out with value-added products (flooring/timbers), coproduct revenue (chips, residue, biochar), or a recurring subsidy on the order of \$3M/yr — and that treatment costs vary so widely by region (California mechanical thin at \$1,742/ac vs. \$500—800/ac western averages) that the planning numbers below should be re-run on local costs before committing [@delyser].
+Two scaling assumptions fail the stress test in ways that mirror the wetland example provided by @scaling. First, replication buys no capital economies of scale: three small mills carry the same \$1.50 per board foot of installed capital as one, versus \$0.67/BF for a single large industrial line. Second, the feedstock and staff base is far larger than intuition suggests: 15 green tons of logs are needed per MBF of lumber (vs. 3.8 tons/MBF for large-log industrial mills), and the payroll alone (\$3.15M/yr) exceeds total lumber revenue (\$1.05M/yr). The exercise therefore surfaces that the program only pencils out with value-added products (flooring/timbers), coproduct revenue (chips, residue, biochar), or a recurring subsidy on the order of \$3M/yr — and that treatment costs vary so widely by region (California mechanical thin at \$1,742/ac vs. \$500—800/ac western averages) that the planning numbers below should be re-run on local costs before committing [@delyser].
 
 The purpose, as in the source framework, is a quick order-of-magnitude reality check rather than a precise financial model: it is meant to reveal which assumptions would sink the program, where to spend effort refining estimates, and how to budget program management, ramp-up, and failure risk at scale [@scaling].
 
@@ -65,7 +59,7 @@ Program-level parameters added when going from pilot to scale are shown in {numr
 | # | Parameter | Assumption (range) | Basis / citation |
 |---|-----------|--------------------|------------------|
 | 1 | Program size | 3 mills x 1 MMBF/yr = 3 MMBF/yr | Scenario |
-| 2 | Ramp-up / sequencing | 1 new mill + 1 thinning crew every 3 years (mills come online t=0, t+3, t+6; a fast schedule) | STAP: program teams can only initiate so many units per year [@scaling] |
+| 2 | Ramp-up / sequencing | 1 new mill + 1 thinning crew every 3 years (mills come online t=0, t+3, t+6; a fast schedule) | Program teams can only initiate so many units per year [@scaling] |
 | 3 | Feedstock demand at full build | 45,000 green tons / yr (3 x 15,000) | Table A row 5 |
 | 4 | Thinning removal intensity | 20 green tons/acre of merchantable small-diameter material (range 10-40) | Fuel-reduction removals of small stems [@chang; @mitchell] |
 | 5 | Acres to treat | 2,250 ac / yr (range 1,100-4,500) | 45,000 tons / 20 tons/ac |
@@ -75,8 +69,8 @@ Program-level parameters added when going from pilot to scale are shown in {numr
 | 9 | Field staff (direct-employ model) | 18 FTE (15 operators + 2 foremen + 1 forester/contract admin) | Row 8 |
 | 10 | Field loaded wage | \$65,000 / FTE / yr (logging equipment operator base \$48k x 1.35) | BLS OES logging equipment operators \$48k [@bls] |
 | 11 | Field payroll (direct-employ alternative) | \$1.17 M / yr (18 x \$65k) | Rows 9-10. Alternative to contract thinning (row 7); do not double-count |
-| 12 | Program management & overhead | 2 FTE + \$150k / yr | STAP: program-scale management adds cost not present at pilot scale [@scaling] |
-| 13 | Failure / risk events | Feedstock shortfall (fire, drought, permit delay), mill downtime, lumber price drop, crew availability | STAP: periodic minor + major failure events must be modeled [@scaling] |
+| 12 | Program management & overhead | 2 FTE + \$150k / yr | Program-scale management adds cost not present at pilot scale [@scaling] |
+| 13 | Failure / risk events | Feedstock shortfall (fire, drought, permit delay), mill downtime, lumber price drop, crew availability | Periodic minor + major failure events must be modeled [@scaling] |
 :::
 
 {numref}`summary` shows the summary model outputs for 1 vs. 3 mills. The staffing model uses direct-employ field crews (Table C rows 9—11); the contract-thinning figure is the market-rate alternative.
@@ -110,11 +104,11 @@ Program-level parameters added when going from pilot to scale are shown in {numr
 
 2. Small-diameter feedstock is volume-hungry. ~15 tons of green material per MBF of lumber (vs. ~3.8—4 tons/MBF for large-log industrial operations [@forestnet; @smalldiameter]) means 3 MMBF of lumber demands ~45,000 tons/yr of thinning material and ~2,250 treated acres/yr — a large, sustained land base and a real constraint on scaling.
 
-3. Staff dominates the cost curve. Payroll (~\$3.15M/yr at full build) exceeds total lumber revenue (~\$1.05M/yr) ~3-fold. The program cannot stand on commodity lumber; it requires coproduct revenue, value-added products, or ~\$3M/yr of subsidy/co-finance — mirroring the STAP wetland program's conclusion that scaling required a large cash subsidy [@scaling].
+3. Staff dominates the cost curve. Payroll (~\$3.15M/yr at full build) exceeds total lumber revenue (~\$1.05M/yr) ~3-fold. The program cannot stand on commodity lumber; it requires coproduct revenue, value-added products, or ~\$3M/yr of subsidy/co-finance — mirroring the the conclusion that scaling required a large cash subsidy [@scaling].
 
 4. Sensitivity levers (change any and re-run): lumber price (\$250—500/MBF), value-added product mix (flooring/timbers sell near \$1,000/MBF [@smalldiameter]), feedstock cost (\$25—45/ton), removal intensity per acre (10—40 tons/ac), and failure events (feedstock shortfalls, price drops) — all of which can swing the annual net by +/-\$1M/yr. Regional treatment costs are the biggest wildcard: the western-US averages used here (~\$500/ac, \$21—28/ton) sit at the low end of the observed range, while California-specific costs (mechanical thin \$1,742/ac, hand thin \$1,088/ac, commercial-thin timber \$59.43/GT [@delyser]) would roughly double-to-triple feedstock cost and wipe out any margin — so local figures must be re-run before committing [@delyser].
 
-5. Time frame. Even if approved, a 1-mill-every-3-yr ramp reaches full 3-MMBF capacity only in year 7 (mills at t=0, t+3, t+6) and requires sustained thinning throughout the ramp before feedstock stockpiles stabilize — the same "longer than announced" caution as the STAP carbon example [@scaling].
+5. Time frame. Even if approved, a 1-mill-every-3-yr ramp reaches full 3-MMBF capacity only in year 7 (mills at t=0, t+3, t+6) and requires sustained thinning throughout the ramp before feedstock stockpiles stabilize.
 
 ## Planning
 Building this into business plan and strategic planning efforts
