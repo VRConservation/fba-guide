@@ -37,11 +37,10 @@ The project and proposal development workflow is iterative, like program design 
     - Executive summary. Three to five sentences max outlining the reason for the project, tasks, outcomes, timeline, and high-level budget.
     - Project goals. Link the project to the programmatic theory of change and goals, then list the project goals/objectives.
     - Tasks. These could be listed under project objectives and also called interventions or activities.
-2. **Budget**. Creating a back-of-the-envelope budget helps quickly estimate a project's basic costs—like staff time, equipment, materials, and key activities, e.g., site assessments, community outreach, training sessions, and report preparation—before investing time in a full proposal. It’s a simple way to test feasibility and guide early planning decisions. Again, don't worry about details; just make some rough estimates. Napkins (or junk mail) and a pen at a restaurant are good tools of the trade! Capture your proposal ideas and get rolling.
-4. **Scope**. Draft the proposal narrative or scope of work with a detailed description of tasks and activities by objective, using the brief from step one as a guide. At this point, it is worth adding a GANTT chart as a project timeline to show the workflow and check whether you've stacked too many activities at certain times or made your schedule too aggressive.
 
-:::{tip} Nesting goals & objectives
-:class: dropdown
+Don't worry about fleshing out these sections in detail. When drafting the brief, focus on getting the ideas down. The details can be developed later.
+
+```{tip}
 Nest your goals, objectives, and tasks similar to an outline:
 
 1. Goal 1 <br>
@@ -52,9 +51,10 @@ Nest your goals, objectives, and tasks similar to an outline:
     2. Task 2  <br>
 2. Goal 2 <br>
   A. Objective 1
-:::
+```
 
-Don't worry about fleshing out these sections in detail. When drafting the brief, focus on getting the ideas down. The details can be developed later.
+2. **Budget**. Creating a back-of-the-envelope budget helps quickly estimate a project's basic costs—like staff time, equipment, materials, and key activities, e.g., site assessments, community outreach, training sessions, and report preparation—before investing time in a full proposal. It’s a simple way to test feasibility and guide early planning decisions. Again, don't worry about details; just make some rough estimates. Napkins (or junk mail) and a pen at a restaurant are good tools of the trade! Capture your proposal ideas and get rolling.
+4. **Scope**. Draft the proposal narrative or scope of work with a detailed description of tasks and activities by objective, using the brief from step one as a guide. At this point, it is worth adding a GANTT chart as a project timeline to show the workflow and check whether you've stacked too many activities at certain times or made your schedule too aggressive.
 
 ## Scope
 Use the brief to flesh out a more detailed project scope and description. Don't be afraid to write sections and then rewrite them. Give each section a rest for a few days, then return to it after working on other sections. Create a checklist from the proposal RFP solicitation package to ensure you don't forget anything. The [Forest Business Alliance](https://www.forestbusinessalliance.org/) has a template checklist that may be useful. 
@@ -86,10 +86,8 @@ Say you're developing a $1 mn budget project, dividing it into broad categories 
 
 The calculator will give you rough amounts for each broad category. You could also break it down by your objectives and tasks from step 1 and the rough budget.
 
-:::{warning} Budgeting for inflation
-:class: dropdown
-**Critical**: include inflationary increases in your budget, especially for salaries and material costs that will increase over the project lifetime (at least 4%/yr). If an application only allows one number per item, calculate costs in your budget spreadsheet over the number of years of the project.
-:::
+```{warning} **Critical**: include inflationary increases in your budget, especially for salaries and material costs that will increase over the project lifetime (at least 4%/yr). If an application only allows one number per item, calculate costs in your budget spreadsheet over the number of years of the project.
+```
 
 ## Budget process
 The project budget is the project's core engine. Developing it with defensible numbers is critical to project success.
@@ -100,8 +98,8 @@ The project budget is the project's core engine. Developing it with defensible n
 4. **Timeline**. Create a project GANTT chart with deliverables from the budget and narrative.
 5. **Refined budget**. Return to the budget and refine numbers—test assumptions about estimates for each line item. Increase amounts as necessary. You may need to factor in inflation, salary raises, or increases in material purchase amounts that may fluctuate with changing markets. Adjust the total budget to reflect what you think is a reasonable ask to the funder. This may require lowering some estimates.
 
-```{tip}
-:class: dropdown 
+:::{tip}
+ 
 Creating budgets by scratch using a spreadsheet can be tedious, especially when you may need to submit multiple budgets in different formats. If you use Excel, create a table with your budget details. Select the rows/columns in the table, then Styles>Format as Table, and choose the table format colors you like. Here's an example:
 
 :::{figure} ../figures/project/budget.png
@@ -117,7 +115,7 @@ Then, with your cursor in one of the table cells, select Insert>PivotTable>OK. C
 :::
 
 To build out your budget, add more rows to the detail sheet, repeating activities by year. After adding new rows, always click Data>Refresh All to update the summary table(s).
-```
+:::
 
 # Finalize
 Put together your project design and share it. For both proposals and projects, copyedit your final version and then copyedit it again. Look at it in different formats and, ideally, let the proposal rest for a few days, then copyedit again. Printing out the key written components and editing with a red pen can also help catch additional mistakes or grammatical errors. This might seem like a waste of paper, but it can be effective for editing. 

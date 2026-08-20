@@ -41,8 +41,7 @@ Monitoring, Evaluation, Accountability, and Learning (MEAL) is crucial to ensuri
 
 This comprehensive approach helps identify and address issues early and fosters a culture of continuous improvement. Effective MEAL practices enhance accountability to stakeholders, ensure resources are used efficiently, and contribute to projects' overall sustainability and impact. Despite MEAL's importance, donors rarely provide adequate funding for it. Given this reality, you must find ways to implement MEAL with whatever resources—personnel, time, and budget—are available. This quick-step guide will get you started.
 
-:::{note} Definitions 
-:class: dropdown
+:::{admonition} Definitions 
 🔭 **Monitoring** involves tracking project activities and progress.<br>
 🔍 **Evaluation** assesses the project's effectiveness and impact.<br>
 🧮 **Accountability** ensures that the project is transparent and accountable to stakeholders.<br>
@@ -80,10 +79,8 @@ It is critical to work from the big picture to your metrics. Follow a process an
 
 Workshopping these steps, preferably with staff and partners, can get you to a cost-effective system sooner. Don’t worry if it seems to take a while at the outset. Socializing across staff and partners can seem to delay the process, but it will ultimately create longer-term solutions.
 
-:::{tip} Funder strategy
-:class: dropdown
-Invite existing or potential funders to a planning workshop. There’s no guarantee this will lead to funding, but you will certainly engage them, make your project more memorable, and tap into their deep knowledge regarding project success.
-:::
+```{tip} Invite existing or potential funders to a planning workshop. There’s no guarantee this will lead to funding, but you will certainly engage them, make your project more memorable, and tap into their deep knowledge regarding project success.
+```
 
 ## Utilize Existing Data Sources
 Review all existing data sources, as well as free data sources, before investing in new data collection efforts. Organizations often collect relevant data for M&E, but staff responsible for monitoring and evaluation must know it exists. For example, if you are seeking to measure return on investment (ROI), your finance team might already have information you can use to crunch ROI figures. Also, investigate open-source data, such as government and citizen scientist databases, before collecting more information. For example, a community forestry initiative seeking to gauge the fire resistance of a stand it manages could search available USGS datasets to find previous fires that may have impacted its site.
@@ -98,7 +95,7 @@ Technology offers cost-effective and time-saving data collection, analysis, and 
 
 ArcGIS Survey 123, from ESRI, is a good example of a mobile app for field data collection and mapping. It can be customized to collect various forest metrics such as tree species, diameter at breast height (DBH), and tree condition, and this information can be fed directly into ArcGIS software. It is easy to use and syncs effortlessly to your desktop or online GIS software. However, it does require a subscription, which can be expensive for some organizations.
 
-```{admonition} Emerging low-cost, high-tech options
+```{admonition} Emerging low-cost, high-tech monitoring options
 :class: dropdown
 
 Traditional methods for monitoring forestry, ecology, and fuels can be expensive, time-consuming, and error-prone when deployed at scale. Additionally, conventional methods can be slow to implement, limiting their usefulness in detecting new ecological changes, and they often do not provide data with enough precision or in a format that can be easily analyzed without extensive human systematization. Despite these limitations, many forest managers continue to use traditional methods because high-tech methods have historically been too costly to deploy. Fortunately, relevant technologies – including terrestrial laser scanning (TLS), unmanned aerial vehicles (UAVs), and light detection and ranging (LIDAR) systems – are rapidly becoming affordable options due to advancements in manufacturing processes, increased competition, and economies of scale.
